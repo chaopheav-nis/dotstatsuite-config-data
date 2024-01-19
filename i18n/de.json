@@ -306,6 +306,7 @@
   "vx.spotlight.placeholder": "Suche nach Schlüsselwörtern…",
   "vx.spotlight.placeholder.primary": "Text in allen Elementen suchen",
   "vx.spotlight.placeholder.secondary": "Text in Elementen dieses Zweigs suchen",
+  "wcag.filters.current.title": {},
   "wcag.filters.search.help": "Mit einem Punkt gekennzeichnete Filter werden, sofern verfügbar, immer zuerst aufgelistet.",
   "wcag.pinned": "gepinnt",
   "wcag.scopelist.navigate.backHelper": "Zurück zu dieser Ebene",

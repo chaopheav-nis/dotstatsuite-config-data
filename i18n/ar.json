@@ -306,6 +306,7 @@
   "vx.spotlight.placeholder": "أبحث عن…",
   "vx.spotlight.placeholder.primary": "إبحث في كل المواضيع",
   "vx.spotlight.placeholder.secondary": "إبحث في النتائج الحالية",
+  "wcag.filters.current.title": {},
   "wcag.filters.search.help": "يتم دائمًا إدراج الاختيارات بنقطة أولاً عند توفرها",
   "wcag.pinned": "محدد",
   "wcag.scopelist.navigate.backHelper": "العودة إلى هذا المستوى",
