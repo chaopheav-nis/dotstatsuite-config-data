@@ -306,6 +306,7 @@
   "vx.spotlight.placeholder": "Ricerca...",
   "vx.spotlight.placeholder.primary": "Ricerca in tutto",
   "vx.spotlight.placeholder.secondary": "Ricerca solo in",
+  "wcag.filters.current.title": {},
   "wcag.filters.search.help": "I filtri contrassegnati da un punto sono, quando disponibili, sempre elencati per primi.",
   "wcag.pinned": "appuntato",
   "wcag.scopelist.navigate.backHelper": "Torna a questo livello",

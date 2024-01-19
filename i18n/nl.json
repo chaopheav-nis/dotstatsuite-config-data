@@ -306,6 +306,7 @@
   "vx.spotlight.placeholder": "zoek...",
   "vx.spotlight.placeholder.primary": "zoek op alles",
   "vx.spotlight.placeholder.secondary": "zoek op huidige",
+  "wcag.filters.current.title": {},
   "wcag.filters.search.help": "Filters gemarkeerd met een punt staan, indien beschikbaar, altijd eerst in de lijst.",
   "wcag.pinned": "vastgepind",
   "wcag.scopelist.navigate.backHelper": "Terug naar dit niveau",

@@ -306,6 +306,7 @@
   "vx.spotlight.placeholder": "ค้นหา ...",
   "vx.spotlight.placeholder.primary": "ค้นหาทั้งหมด",
   "vx.spotlight.placeholder.secondary": "ค้นหาปัจจุบัน",
+  "wcag.filters.current.title": {},
   "wcag.filters.search.help": "ตัวกรองจะถูกทำเครื่องหมายเป็นจุดเมื่อมีรายการคำพูดก่อนเสมอ",
   "wcag.pinned": "โฮสต์",
   "wcag.scopelist.navigate.backHelper": "กลับสู่ระดับนี้",
