@@ -130,18 +130,18 @@
     "palette": {
       "secondary": {"dark": "#ffffff"},
       "tertiary": {"main": "#ff19ab"},
-    },
-    "mixins": {
-      "dataflow": {
-        "desc": {
+    }
+  },
+  "mixins": {
+    "dataflow": {
+      "desc": {
         "mutedText": {
-            "color": "#bcbcbc"
-          },
-          "unmutedText": {
-           "color": "#5b5b5b"
-         }
-       }
-     }
+          "color": "#FFC0CB"
+        },
+        "unmutedText": {
+          "color": "#FFFFF"
+        }
+      }
     }
   },
   "i18n": {
