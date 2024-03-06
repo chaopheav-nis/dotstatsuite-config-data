@@ -129,19 +129,7 @@
     "visFont": "'Segoe UI'",
     "palette": {
       "secondary": {"dark": "#ffffff"},
-      "tertiary": {"main": "#ff19ab"},
-    }
-  },
-  "mixins": {
-    "dataflow": {
-      "desc": {
-        "mutedText": {
-          "color": "#FFC0CB"
-        },
-        "unmutedText": {
-          "color": "#FFFFF"
-        }
-      }
+      "tertiary": {"main": "#ff19ab"}
     }
   },
   "i18n": {
