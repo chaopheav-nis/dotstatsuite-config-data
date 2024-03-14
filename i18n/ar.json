@@ -309,6 +309,7 @@
   "wcag.filters.current.title": "المرشحات المطبقة - مرشحات {counter} نشطة",
   "wcag.filters.search.help": "يتم دائمًا إدراج الاختيارات بنقطة أولاً عند توفرها",
   "wcag.filters.tag.label": "{count, plural, =0 {all active items} =1 {one seleceted item} other {# selected items}} against {total,number} ",
+  "wcag.last.n.label": {},
   "wcag.pinned": "محدد",
   "wcag.scopelist.navigate.backHelper": "العودة إلى هذا المستوى",
   "wcag.scopelist.navigate.children": "انتقل إلى المستوى التالي",

@@ -309,6 +309,7 @@
   "wcag.filters.current.title": "Toegepaste filters - {counter} filters actief",
   "wcag.filters.search.help": "Filters gemarkeerd met een punt staan, indien beschikbaar, altijd eerst in de lijst.",
   "wcag.filters.tag.label": "{count, plural, =0 {all active items} =1 {one seleceted item} other {# selected items}} against {total,number} ",
+  "wcag.last.n.label": {},
   "wcag.pinned": "vastgepind",
   "wcag.scopelist.navigate.backHelper": "Terug naar dit niveau",
   "wcag.scopelist.navigate.children": "Drill-down naar het volgende niveau",

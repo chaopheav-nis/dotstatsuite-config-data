@@ -309,6 +309,7 @@
   "wcag.filters.current.title": "Filtros aplicados - {counter} filtros activos",
   "wcag.filters.search.help": "Los filtros marcados con un punto, cuando están disponibles, aparecen siempre en primer lugar",
   "wcag.filters.tag.label": "{count, plural, =0 {all active items} =1 {one seleceted item} other {# selected items}} against {total,number} ",
+  "wcag.last.n.label": {},
   "wcag.pinned": "pinned",
   "wcag.scopelist.navigate.backHelper": "Volver a este nivel",
   "wcag.scopelist.navigate.children": "Desglose al siguiente nivel",

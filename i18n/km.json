@@ -309,6 +309,7 @@
   "wcag.filters.current.title": "តម្រងដែលបានអនុវត្ត - តម្រង {counter} សកម្ម",
   "wcag.filters.search.help": "ចម្រោះមានសម្គាល់ជាចំណុច នៅពេលដែលមាន ជានិច្ចកាលសម្រង់បញ្ជីជាមុនសិន",
   "wcag.filters.tag.label": "{count, plural, =0 {all active items} =1 {one seleceted item} other {# selected items}} against {total,number} ",
+  "wcag.last.n.label": {},
   "wcag.pinned": "ខ្ទាស់",
   "wcag.scopelist.navigate.backHelper": "ត្រលប់ទៅកម្រិតនេះ។",
   "wcag.scopelist.navigate.children": "ខួងចុះក្រោមទៅកម្រិតបន្ទាប់",
