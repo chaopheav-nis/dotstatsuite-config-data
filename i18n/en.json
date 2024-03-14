@@ -309,6 +309,7 @@
   "wcag.filters.current.title": "Applied filters - {counter} filters active",
   "wcag.filters.search.help": "Filters marked with a dot are, when available, always listed first.",
   "wcag.filters.tag.label": "{count, plural, =0 {all active items} =1 {one seleceted item} other {# selected items}} against {total,number} ",
+  "wcag.last.n.label": "{value} fixed number of latest available {mode}",
   "wcag.pinned": "marked facet",
   "wcag.scopelist.navigate.backHelper": "Back to this level",
   "wcag.scopelist.navigate.children": "Drill-down to next level",
