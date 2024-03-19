@@ -554,6 +554,7 @@
   "sfs.index": "(إعادة) مؤشر تدفق البيانات",
   "sfs.index.error": "خطأ أثناء الفهرسة",
   "sfs.index.success": "تم إرسال الفهرسة بنجاح",
+  "sfs.index.success.message": {},
   "sfs.index.unauthorized": "لا يمكن فهرستها بسبب الإذن غير الكافي. اتصل بمالك الهيكل للحصول على إذن الفهرسة",
   "sfs.is.indexing": "الفهرسة قيد المعالجة",
   "spaces.no.space": "لا يوجد مساحة",
