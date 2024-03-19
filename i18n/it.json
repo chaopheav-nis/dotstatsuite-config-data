@@ -554,6 +554,7 @@
   "sfs.index": "(Ri-)indicizzare il dataflow",
   "sfs.index.error": "Errori durante l'indicizzazione",
   "sfs.index.success": "Indicizzazione inviata correttamente",
+  "sfs.index.success.message": {},
   "sfs.index.unauthorized": "Impossibile indicizzare a causa di un'autorizzazione insufficiente. Contattare il proprietario della struttura per ottenere l'autorizzazione all'indicizzazione.",
   "sfs.is.indexing": "Indicizzazione in corso",
   "spaces.no.space": "Nessuno spazio",

@@ -554,6 +554,7 @@
   "sfs.index": "(Her)index dataflow",
   "sfs.index.error": "Fout(en) tijdens indexatie",
   "sfs.index.success": "Indexatie succesvol ingediend",
+  "sfs.index.success.message": {},
   "sfs.index.unauthorized": "Kan niet worden geïndexeerd vanwege onvoldoende toestemming. Neem contact op met de eigenaar van de constructie om de indexatietoestemming te krijgen.",
   "sfs.is.indexing": "Indexatie bezig",
   "spaces.no.space": "Geen space",

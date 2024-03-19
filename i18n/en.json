@@ -554,6 +554,7 @@
   "sfs.index": "(Re-)index dataflow",
   "sfs.index.error": "Error(s) during indexation",
   "sfs.index.success": "(Re-)indexation successfully submitted",
+  "sfs.index.success.message": "dataflow {id} indexed with datasources: [{datasources}]",
   "sfs.index.unauthorized": "Cannot be indexed due to an insufficient permission. Contact the owner of the structure to gain the indexation permission.",
   "sfs.is.indexing": "Indexation in process",
   "spaces.no.space": "No space",

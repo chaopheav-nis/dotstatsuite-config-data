@@ -554,6 +554,7 @@
   "sfs.index": "(Ré-)indexer le dataflow",
   "sfs.index.error": "Erreur(s) lors de l'indexation",
   "sfs.index.success": "Indexation soumise avec succès",
+  "sfs.index.success.message": {},
   "sfs.index.unauthorized": "Impossible d'indexer en raison d'une autorisation insuffisante. Veuillez contacter le propriétaire de la structure pour obtenir l'autorisation d'indexation.",
   "sfs.is.indexing": "Indexation en cours",
   "spaces.no.space": "Pas d'espace",
