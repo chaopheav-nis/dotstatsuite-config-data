@@ -293,6 +293,7 @@
   "vx.filter.children.selection": "Cet élément et tous les éléments directement en dessous",
   "vx.filter.close": "Annuler",
   "vx.filter.colapse.all": "Réduire tout",
+  "vx.filter.deselect.all": {},
   "vx.filter.expand.all": "Développer tout",
   "vx.filter.level.selection": "Tous les éléménts du même niveau",
   "vx.filter.selectin.hint": "Saviez-vous déjà que vous pouvez sélectionner plusieurs éléments soit{br}en maintenant le bouton gauche de la souris enfoncé tout en sélectionnant les élements voisins, soit{br}en maintenant la touche 'Maj' enfoncée tout en sélecitonnant le dernier élément voisin, ou{br}en maintenant la touche 'Ctrl' lors de la sélection du ou des éléments individuels",

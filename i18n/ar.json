@@ -293,6 +293,7 @@
   "vx.filter.children.selection": "البند وجميع العناصر مباشرة أدناه",
   "vx.filter.close": "يلغي",
   "vx.filter.colapse.all": "انهيار جميع",
+  "vx.filter.deselect.all": {},
   "vx.filter.expand.all": "توسيع الكل",
   "vx.filter.level.selection": "جميع العناصر في نفس المستوى",
   "vx.filter.selectin.hint": "هل تعلم بالفعل أنه يمكنك تحديد عدة عناصر إما {br} بالضغط على زر الماوس أثناء تحديد العناصر المجاورة أو {br} بالضغط على مفتاح 'Shift' أثناء تحديد آخر عنصر مجاور أو {br} بالضغط على 'Ctrl' مفتاح أثناء اختيار العنصر (العناصر) الفردية التالية؟",

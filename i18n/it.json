@@ -293,6 +293,7 @@
   "vx.filter.children.selection": "Articolo e tutti gli articoli direttamente sotto",
   "vx.filter.close": "Annulla",
   "vx.filter.colapse.all": "Comprimi tutto",
+  "vx.filter.deselect.all": {},
   "vx.filter.expand.all": "Espandi tutto",
   "vx.filter.level.selection": "Tutti gli elementi allo stesso livello",
   "vx.filter.selectin.hint": "Sapevi già che puoi selezionare diversi elementi{br}tenendo premuto il pulsante del mouse mentre selezioni gli elementi vicini o{br}tenendo premuto il tasto 'Maiusc' mentre selezioni l'ultimo elemento vicino oppure{br}tenendo premuto il tasto 'Ctrl' tasto durante la selezione della/e successiva/e voce/i?",
