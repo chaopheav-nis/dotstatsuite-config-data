@@ -43,7 +43,7 @@ test-json:
   stage: test
   needs: [yarn-dependencies]
   image: $NODE_IMAGE
-  script: yarn i18n:json-validate
+  script: yarn json-validate
 
 deploy-qa:
   variables:
