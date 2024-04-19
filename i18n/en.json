@@ -533,7 +533,7 @@
   "permission.512": "Delete structures",
   "permission.512.definition": "Allows deleting structural information",
   "permission.64": "Manage permissions",
-  "permission.64.definition": "Allows modifying permissions (Note: In .Stat Suite this permission is currently ineffective. To allow managing permissions, 'full control' must be given.)",
+  "permission.64.definition": "Allows modifying permissions",
   "permission.8": "Perform internal mapping config",
   "permission.8.definition": "Allows performing internal mapping configuration attribute (not used in .Stat Suite)",
   "pit.active": "Embargo",

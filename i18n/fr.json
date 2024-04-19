@@ -533,7 +533,7 @@
   "permission.512": "Supprimer des structures",
   "permission.512.definition": "Permet de supprimer des informations structurelles",
   "permission.64": "Gérer les autorisations",
-  "permission.64.definition": "Permet de modifier des autorisations (Note : dans .Stat Suite, cette autorisation est actuellement inefficace. Pour autoriser la gestion des autorisations, un contrôle total doit être accordé.)",
+  "permission.64.definition": "Permet de modifier des autorisations",
   "permission.8": "Effectuer la configuration de mapping interne",
   "permission.8.definition": "Permet d'effectuer la configuration de mapping interne (non utilisé dans .Stat Suite)",
   "pit.active": "Embargo",

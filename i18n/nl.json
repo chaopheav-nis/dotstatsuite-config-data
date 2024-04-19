@@ -533,7 +533,7 @@
   "permission.512": "Structuren verwijderen",
   "permission.512.definition": "Staat het verwijderen van structurele informatie toe",
   "permission.64": "Machtigingen beheren",
-  "permission.64.definition": "Staat het wijzigen van machtigingen toe (Opmerking: in .Stat Suite is deze machtiging momenteel niet effectief. Om beheermachtigingen toe te staan, moet 'volledige controle' worden gegeven.)",
+  "permission.64.definition": "Staat het wijzigen van machtigingen toe",
   "permission.8": "Interne toewijzingsconfiguratie uitvoeren",
   "permission.8.definition": "Maakt het mogelijk om intern configuratiekenmerk voor toewijzing uit te voeren (niet gebruikt in .Stat Suite)",
   "pit.active": "Embargo",
