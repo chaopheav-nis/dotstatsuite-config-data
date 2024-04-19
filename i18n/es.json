@@ -533,7 +533,7 @@
   "permission.512": "Eliminar estructuras",
   "permission.512.definition": "Permite borrar información estructural",
   "permission.64": "Administrar permisos",
-  "permission.64.definition": "Permite modificar permisos (Nota: en .Stat Suite, este permiso actualmente no es efectivo. Para permitir la administración de permisos, se debe dar 'control total').",
+  "permission.64.definition": "Permite modificar permisos",
   "permission.8": "Realizar la configuración de mapeo interno",
   "permission.8.definition": "Permite realizar atributos de configuración de mapeo interno (no se usa en .Stat Suite)",
   "pit.active": "Embargo",

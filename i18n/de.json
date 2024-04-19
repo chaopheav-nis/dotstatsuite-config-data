@@ -533,7 +533,7 @@
   "permission.512": "Strukturen löschen",
   "permission.512.definition": "Ermöglicht das Löschen von Strukturinformationen",
   "permission.64": "Berechtigungen verwalten",
-  "permission.64.definition": "Ermöglicht das Ändern von Berechtigungen (Hinweis: In .Stat Suite ist diese Berechtigung derzeit unwirksam. Um die Verwaltung von Berechtigungen zu ermöglichen, muss 'Vollzugriff' erteilt werden.)",
+  "permission.64.definition": "Ermöglicht das Ändern von Berechtigungen",
   "permission.8": "Führen Sie die interne Mapping-Konfiguration durch",
   "permission.8.definition": "Ermöglicht die Ausführung eines internen Mapping-Konfigurationsattributs (wird in .Stat Suite nicht verwendet)",
   "pit.active": "Embargo",
