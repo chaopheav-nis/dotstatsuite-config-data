@@ -60,7 +60,6 @@
     }
   },
   "app": {
-    "surveyLink": "https://forms.office.com/e/vef8MPxaEQ?origin=lprLink",
     "defaultView": "OVERVIEW",
     "favicon": "/assets/siscc/data-explorer/images/favicon.ico",
     "footer": {
