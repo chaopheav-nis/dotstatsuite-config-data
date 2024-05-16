@@ -305,7 +305,7 @@
   "vx.no.data.selection": "There is no data for the current selection. Please change the selection.",
   "vx.no.time.data": "A timeline chart cannot be shown because the data has no time dimension.",
   "vx.spotlight.placeholder": "Search by keywords",
-  "vx.spotlight.placeholder.primary": "Search in all items",
+  "vx.spotlight.placeholder.primary": "Search in all {total} items below",
   "vx.spotlight.placeholder.secondary": "Search in current branch",
   "wcag.applied.filetrs.chip.tooltip": "parent of",
   "wcag.filters.current.title": "Applied filters - {counter} filters active",
