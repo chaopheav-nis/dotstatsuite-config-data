@@ -305,7 +305,7 @@
   "vx.no.data.selection": "Er zijn geen gegevens voor de huidige selectie.  Gelieve de selectie te wijzigen.",
   "vx.no.time.data": "Er kan geen tijdlijndiagram worden weergegeven omdat de gegevens geen tijddimensie hebben.",
   "vx.spotlight.placeholder": "zoek...",
-  "vx.spotlight.placeholder.primary": "zoek op alles",
+  "vx.spotlight.placeholder.primary": "Zoek in alle {total} items hieronder",
   "vx.spotlight.placeholder.secondary": "zoek op huidige",
   "wcag.applied.filetrs.chip.tooltip": "ouder van",
   "wcag.filters.current.title": "Toegepaste filters - {counter} filters actief",

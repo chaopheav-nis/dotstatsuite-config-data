@@ -305,7 +305,7 @@
   "vx.no.data.selection": "ไม่มีข้อมูลสำหรับตัวเลือกปัจจุบันโปรดเปลี่ยนตัวเลือก",
   "vx.no.time.data": "ไม่มีเวลา",
   "vx.spotlight.placeholder": "ค้นหา ...",
-  "vx.spotlight.placeholder.primary": "ค้นหาทั้งหมด",
+  "vx.spotlight.placeholder.primary": "ค้นหาในรายการทั้งหมด {total} รายการด้านล่าง",
   "vx.spotlight.placeholder.secondary": "ค้นหาปัจจุบัน",
   "wcag.applied.filetrs.chip.tooltip": "ผู้ปกครองของ",
   "wcag.filters.current.title": "ใช้ตัวกรอง - ตัวกรอง {counter} ทำงานอยู่",

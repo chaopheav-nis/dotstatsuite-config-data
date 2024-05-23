@@ -305,7 +305,7 @@
   "vx.no.data.selection": "Il n'y a pas de données pour la sélection actuelle. Veuillez modifier la sélection.",
   "vx.no.time.data": "Les données ne reposant pas sur une dimension temporelle, une courbe chronologique ne peut être affichée",
   "vx.spotlight.placeholder": "Recherche par mots-clés",
-  "vx.spotlight.placeholder.primary": "Chercher dans tous les éléments",
+  "vx.spotlight.placeholder.primary": "Chercher dans les {total} éléments",
   "vx.spotlight.placeholder.secondary": "Chercher dans cette branche",
   "wcag.applied.filetrs.chip.tooltip": "Parent de",
   "wcag.filters.current.title": "Filtres appliqués – {counter} filtres actifs",

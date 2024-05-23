@@ -305,7 +305,7 @@
   "vx.no.data.selection": "មិនមានទិន្នន័យសម្រាប់ការជ្រើសរើសបច្ចុប្បន្នទេ។ សូមប្តូរការជ្រើសរើស។",
   "vx.no.time.data": "គំនូសតាងបន្ទាត់ពេលវេលាមិនអាចបង្ហាញបានទេ ដោយសារទិន្នន័យមិនមានវិមាត្រពេលវេលា។",
   "vx.spotlight.placeholder": "ស្វែងរក...",
-  "vx.spotlight.placeholder.primary": "ស្វែងរកទាំងអស់",
+  "vx.spotlight.placeholder.primary": "ស្វែងរកក្នុងធាតុ {total} ទាំងអស់ខាងក្រោម",
   "vx.spotlight.placeholder.secondary": "ស្វែងរកក្នុងបច្ចុប្បន្ន",
   "wcag.applied.filetrs.chip.tooltip": "ឪពុកម្តាយរបស់",
   "wcag.filters.current.title": "តម្រងដែលបានអនុវត្ត - តម្រង {counter} សកម្ម",
