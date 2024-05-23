@@ -305,7 +305,7 @@
   "vx.no.data.selection": "No hay datos para la selección actual. Por favor cambie la selección.",
   "vx.no.time.data": "No se puede mostrar un gráfico de línea de tiempo porque los datos no tienen dimensión temporal",
   "vx.spotlight.placeholder": "Buscar...",
-  "vx.spotlight.placeholder.primary": "Buscar (Todos)",
+  "vx.spotlight.placeholder.primary": "Buscar en todos los {total} elementos",
   "vx.spotlight.placeholder.secondary": "Buscar (Selección actual)",
   "wcag.applied.filetrs.chip.tooltip": "Padre de",
   "wcag.filters.current.title": "Filtros aplicados - {counter} filtros activos",
