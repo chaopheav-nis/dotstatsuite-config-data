@@ -658,5 +658,6 @@
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.table.cells.limit": "Su selección actual ({totalCells, number} celdas de la tabla) está por encima del límite definido ({cellsLimit, number}), lo que da como resultado una tabla incompleta.",
   "dv.incomplete.vis.data.total.limit": "Su selección actual ({total, number} puntos de datos) está por encima del límite definido ({cellsLimit, number}), lo que genera un {type, select, table {tabla} other {gráfico}} incompleto.{br}Todos los puntos de datos seleccionados todavía se puede descargar en texto tabular (CSV).",
-  "layout.incompatible": "Su selección de datos personalizada es incompatible con el diseño guardado"
+  "layout.incompatible": "Su selección de datos personalizada es incompatible con el diseño guardado",
+  "zh":"中文"
 }
