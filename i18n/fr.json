@@ -558,6 +558,7 @@
   "route.not.found": "Route introuvable",
   "route.upload.data": "Import de données & métadonnées",
   "route.upload.structure": "Import de structures",
+  "ru":"русский",
   "sfs.index": "(Ré-)indexer le dataflow",
   "sfs.index.error": "Erreur(s) lors de l'indexation",
   "sfs.index.success": "Indexation soumise avec succès",

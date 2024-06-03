@@ -558,6 +558,7 @@
     "route.not.found": "未找到路径",
     "route.upload.data": "上传数据和参考元数据",
     "route.upload.structure": "上传结构",
+    "ru":"русский",
     "sfs.index": "为数据流（重新）建立索引",
     "sfs.index.error": "建立索引期间出现错误",
     "sfs.index.success": "（重新）建立索引成功提交",

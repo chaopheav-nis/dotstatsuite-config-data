@@ -558,6 +558,7 @@
   "route.not.found": "Ruta no encontrada",
   "route.upload.data": "Cargar datos & metadatos referenciales",
   "route.upload.structure": "Cargar estructuras",
+  "ru":"русский",
   "sfs.index": "Dataflow (re)indexado",
   "sfs.index.error": "Error(es) durante la indexación",
   "sfs.index.success": "Indexación enviada con éxito",
