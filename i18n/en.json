@@ -166,6 +166,8 @@
   "de.survey.button": "Take the 5-minutes survey",
   "de.survey.subtitle": "Subtitle",
   "de.survey.title": "Title",
+  "de.sus.button.label": "Generate short URL",
+  "de.sus.title": "Short URL for this page",
   "de.table.layout.apply": "Apply layout",
   "de.table.layout.cancel": "Cancel changes",
   "de.table.layout.getter.dimension": "Label format",
