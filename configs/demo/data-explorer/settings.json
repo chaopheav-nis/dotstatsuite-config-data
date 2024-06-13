@@ -71,6 +71,7 @@
     ]
   },
   "assets": {
+    "surveyImage": "/assets/siscc/data-explorer/images/popup-survey.png",
     "header": "/assets/siscc/data-explorer/images/sis-cc-logo.png",
     "subheader": "/assets/siscc/data-explorer/images/dotstat-data-explorer-logo.png",
     "footer": "/assets/siscc/data-explorer/images/sis-cc-icon.png",
@@ -78,8 +79,8 @@
     "viewerFooter": {
       "en": "/assets/siscc/data-explorer/images/sis-cc-logo.png",
       "fr": "/assets/siscc/data-explorer/images/dotstat-data-explorer-logo.png"
-    }
-  },
+      }
+   },
   "chart": {
     "isVisible": true,
     "url": "",

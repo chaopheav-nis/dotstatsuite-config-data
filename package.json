@@ -1,10 +1,10 @@
 {
   "name": "dotstatsuite-config-data",
-  "version": "23.0.1",
+  "version": "24.0.0",
   "scripts": {
     "i18n:changelog": "node scripts/i18n-changelog.js --color",
     "i18n:update": "node scripts/i18n-update.js --color",
-    "i18n:json-validate": "node scripts/i18n-json-validate.js --color",
+    "json-validate": "node scripts/json-validate.js --color",
     "helper:mergerequests": "node scripts/merge-requests.js --color"
   },
   "devDependencies": {
