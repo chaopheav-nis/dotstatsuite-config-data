@@ -65,6 +65,7 @@
   "de.contact.form": "Neem contact met ons op",
   "de.contact.full.name": "Uw volledige naam",
   "de.contact.mail.subject": "{over} over {appName}",
+  "de.contact.mail.subject.label": {},
   "de.contact.organisation": "Uw organisatie",
   "de.contact.personal.title": "Jouw titel",
   "de.contact.privacy": "<a>Privacybeleid|https://www.example.org/privacy/</a>",

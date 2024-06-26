@@ -65,6 +65,7 @@
   "de.contact.form": "اتصل بنا",
   "de.contact.full.name": "اسمك الكامل",
   "de.contact.mail.subject": "{about} حول {appName}",
+  "de.contact.mail.subject.label": {},
   "de.contact.organisation": "مؤسستك",
   "de.contact.personal.title": "لقبك",
   "de.contact.privacy": "<a>سياسة الخصوصية|https://www.example.org/privacy/</a>",

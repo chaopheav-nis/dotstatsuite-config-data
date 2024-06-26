@@ -65,6 +65,7 @@
   "de.contact.form": "Contattaci",
   "de.contact.full.name": "Il tuo nome completo",
   "de.contact.mail.subject": "{about} su {appName}",
+  "de.contact.mail.subject.label": {},
   "de.contact.organisation": "La tua organizzazione",
   "de.contact.personal.title": "Il tuo titolo",
   "de.contact.privacy": "<a>Politica sulla riservatezza|https://www.example.org/privacy/</a>",

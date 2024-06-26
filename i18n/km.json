@@ -65,6 +65,7 @@
   "de.contact.form": "ទាក់ទង​មក​ពួក​យើង",
   "de.contact.full.name": "ឈ្មោះ​ពេញ​របស់​អ្នក",
   "de.contact.mail.subject": "{about} អំពី {appName}",
+  "de.contact.mail.subject.label": {},
   "de.contact.organisation": "អង្គការរបស់អ្នក។",
   "de.contact.personal.title": "ចំណងជើងរបស់អ្នក។",
   "de.contact.privacy": "<a>គោលការណ៍ឯកជនភាព|https://www.example.org/privacy/</a>",
