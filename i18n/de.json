@@ -507,6 +507,7 @@
   "logs.list.action": "Aktion",
   "logs.list.blank.no.log": "Es sind keine Logs für die aktuellen Filter vorhanden.",
   "logs.list.blank.no.space": "Bitte wählen Sie mindestens einen Raum aus",
+  "logs.list.blank.time.out.504": {},
   "logs.list.execution.end": "Ausführungsende",
   "logs.list.execution.outcome": "Ergebnis",
   "logs.list.execution.start": "Ausführungstart",

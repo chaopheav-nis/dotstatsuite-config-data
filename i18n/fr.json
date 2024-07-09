@@ -507,6 +507,7 @@
   "logs.list.action": "Action",
   "logs.list.blank.no.log": "Il n'y a aucun log pour les filtres actuels.",
   "logs.list.blank.no.space": "Veuillez sélectionner au moins un espace",
+  "logs.list.blank.time.out.504": {},
   "logs.list.execution.end": "Fin d'exécution",
   "logs.list.execution.outcome": "Résultat d'exécution",
   "logs.list.execution.start": "Début d'exécution",

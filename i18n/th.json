@@ -507,6 +507,7 @@
   "logs.list.action": "การกระทำ",
   "logs.list.blank.no.log": "ไม่มีบันทึกสำหรับตัวกรองปัจจุบัน",
   "logs.list.blank.no.space": "โปรดเลือกอย่างน้อยหนึ่งช่องว่าง",
+  "logs.list.blank.time.out.504": {},
   "logs.list.execution.end": "สิ้นสุดการดำเนินการ",
   "logs.list.execution.outcome": "ผลการดำเนินการ",
   "logs.list.execution.start": "เริ่มดำเนินการ",

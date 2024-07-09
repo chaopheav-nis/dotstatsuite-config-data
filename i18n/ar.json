@@ -507,6 +507,7 @@
   "logs.list.action": "عمل",
   "logs.list.blank.no.log": "لا توجد سجلات متاحة للفلاتر الحالية",
   "logs.list.blank.no.space": "الرجاء تحديد مساحة واحدة على الأقل",
+  "logs.list.blank.time.out.504": {},
   "logs.list.execution.end": "انتهاء التنفيذ",
   "logs.list.execution.outcome": "نتيجة التنفيذ",
   "logs.list.execution.start": "بدء التنفيذ",
