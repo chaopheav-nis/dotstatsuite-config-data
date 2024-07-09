@@ -507,7 +507,7 @@
   "logs.list.action": "Actie",
   "logs.list.blank.no.log": "Er zijn geen logboeken beschikbaar voor de huidige filters.",
   "logs.list.blank.no.space": "Selecteer ten minste één spatie",
-  "logs.list.blank.time.out.504": {},
+  "logs.list.error.504": {},
   "logs.list.execution.end": "Uitvoering einde",
   "logs.list.execution.outcome": "Uitvoeringsresultaat",
   "logs.list.execution.start": "Uitvoering start",

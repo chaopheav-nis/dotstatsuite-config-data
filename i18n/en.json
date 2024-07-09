@@ -507,7 +507,7 @@
   "logs.list.action": "Action",
   "logs.list.blank.no.log": "There are no logs available for the current filters.",
   "logs.list.blank.no.space": "Please select at least one space",
-  "logs.list.blank.time.out.504": "A 'Connection Timed Out' error occurred. Please retry later or filter further to reduce the number of logs to be retrieved.",
+  "logs.list.error.504": "A 'Connection Timed Out' error occurred. Please retry later or filter further to reduce the number of logs to be retrieved.",
   "logs.list.execution.end": "Execution end",
   "logs.list.execution.outcome": "Outcome",
   "logs.list.execution.start": "Execution start",
