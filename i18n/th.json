@@ -65,6 +65,7 @@
   "de.contact.form": "ติดต่อเรา",
   "de.contact.full.name": "ชื่อเต็มของคุณ",
   "de.contact.mail.subject": "{about} เกี่ยวกับ {appName}",
+  "de.contact.mail.subject.label": {},
   "de.contact.organisation": "องค์กรของคุณ",
   "de.contact.personal.title": "ชื่อเรื่องของคุณ",
   "de.contact.privacy": "<a>นโยบายความเป็นส่วนตัว|https://www.example.org/privacy/</a>",
