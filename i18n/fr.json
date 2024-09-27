@@ -564,6 +564,7 @@
   "route.not.found": "Route introuvable",
   "route.upload.data": "Import de données & métadonnées",
   "route.upload.structure": "Import de structures",
+  "ru":"русский",
   "sfs.index": "(Ré-)indexer le dataflow",
   "sfs.index.error": "Erreur(s) lors de l'indexation",
   "sfs.index.success": "Indexation soumise avec succès",
@@ -663,5 +664,6 @@
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.table.cells.limit": "Votre sélection actuelle ({totalCells, number} cellules du tableau) dépasse les limites de visualisation des données ({cellsLimit, number}), ce qui entraîne une table incomplète.",
   "dv.incomplete.vis.data.total.limit": "Votre sélection actuelle (maximum {total, number} points de données) dépasse les limites ({cellsLimit, number}) ce qui entraîne {type, select, table {une table incomplete} other {un graphique incomplet}}.",
-  "layout.incompatible": "Votre sélection de données personnalisée est incompatible avec la mise en page enregistrée."
+  "layout.incompatible": "Votre sélection de données personnalisée est incompatible avec la mise en page enregistrée.",
+  "zh":"中文"
 }

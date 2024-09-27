@@ -564,6 +564,7 @@
   "route.not.found": "ไม่พบเส้นทาง",
   "route.upload.data": "อัปโหลดข้อมูลและข้อมูลเมตาอ้างอิง",
   "route.upload.structure": "อัพโหลดโครงสร้าง",
+  "ru":"русский",
   "sfs.index": "ดัชนีหรือสร้างดัชนีใหม่ dataflow",
   "sfs.index.error": "ข้อผิดพลาดระหว่างการสร้างดัชนี",
   "sfs.index.success": "ส่งการจัดทำดัชนีเรียบร้อยแล้ว",
@@ -663,5 +664,6 @@
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.table.cells.limit": "การเลือกปัจจุบันของคุณ ({totalCells, number} เซลล์ตาราง) อยู่เหนือขีดจำกัดที่กำหนดไว้ ({cellsLimit, number}) ส่งผลให้ตารางไม่สมบูรณ์",
   "dv.incomplete.vis.data.total.limit": "การเลือกปัจจุบันของคุณ (จุดข้อมูล {total, number} จุด) อยู่เหนือขีดจำกัดที่กำหนดไว้ ({cellsLimit, number}) ส่งผลให้ {type, select, table {ตาราง} other {แผนภูมิ}} ไม่ครบถ้วน{br}จุดข้อมูลที่เลือกทั้งหมด ยังคงสามารถดาวน์โหลดได้ในรูปแบบข้อความตาราง (CSV)",
-  "layout.incompatible": "ปรับแต่งข้อมูลแล้วไม่ตรงกับที่เลเอาต์ที่บันทึกไว้"
+  "layout.incompatible": "ปรับแต่งข้อมูลแล้วไม่ตรงกับที่เลเอาต์ที่บันทึกไว้",
+  "zh":"中文"
 }

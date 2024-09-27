@@ -564,6 +564,7 @@
   "route.not.found": "المسار غير موجود",
   "route.upload.data": "تحميل & البيانات الوصفية المرجعية",
   "route.upload.structure": "تحميل الهياكل",
+  "ru":"русский",
   "sfs.index": "(إعادة) مؤشر تدفق البيانات",
   "sfs.index.error": "خطأ أثناء الفهرسة",
   "sfs.index.success": "تم إرسال الفهرسة بنجاح",
@@ -663,5 +664,6 @@
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.table.cells.limit": "تحديدك الحالي ({totalCells, number} خلايا جدول) أعلى من الحد المحدد ({cellsLimit, number}) مما يؤدي إلى جدول غير مكتمل.",
   "dv.incomplete.vis.data.total.limit": "اختيارك الحالي ({total, number} من نقاط البيانات) أعلى من الحد المحدد ({cellsLimit, number}) مما يؤدي إلى عدم اكتمال {type, select, table {جدول} other {جدول}}. {br} لا يزال من الممكن تنزيل جميع نقاط البيانات المحددة في نص جدولي (CSV).",
-  "layout.incompatible": "تحديد البيانات المخصصة غير متوافق مع التخطيط المحفوظ"
+  "layout.incompatible": "تحديد البيانات المخصصة غير متوافق مع التخطيط المحفوظ",
+  "zh":"中文"
 }

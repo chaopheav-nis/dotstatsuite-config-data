@@ -564,6 +564,7 @@
   "route.not.found": "Route niet gevonden",
   "route.upload.data": "Gegevens uploaden en verwijzende metagegevens",
   "route.upload.structure": "Structuren opladen",
+  "ru":"русский",
   "sfs.index": "(Her)index dataflow",
   "sfs.index.error": "Fout(en) tijdens indexatie",
   "sfs.index.success": "Indexatie succesvol ingediend",
@@ -663,5 +664,6 @@
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.table.cells.limit": "Uw huidige selectie ({totalCells, number} tabelcellen) is boven de gedefinieerde limiet ({cellsLimit, number}), wat resulteert in een onvolledige tabel.",
   "dv.incomplete.vis.data.total.limit": "Uw huidige selectie ({total, number} datapunten) is boven de gedefinieerde limiet ({cellsLimit, number}), wat resulteert in een onvolledige {type, select, table {tabel} other {grafiek}}.{br}Alle geselecteerde gegevenspunten kan nog steeds worden gedownload in tabelvorm (CSV).",
-  "layout.incompatible": "Uw aangepaste gegevensselectie is niet compatibel met de opgeslagen lay-out."
+  "layout.incompatible": "Uw aangepaste gegevensselectie is niet compatibel met de opgeslagen lay-out.",
+  "zh":"中文"
 }
