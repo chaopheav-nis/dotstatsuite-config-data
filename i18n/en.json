@@ -234,6 +234,7 @@
   "metadata.advanced.attributes": "Data Characteristics",
   "metadata.collapse.all": "Collapse all",
   "metadata.download": "Download the selection in CSV",
+  "metadata.download.csv.all": "Unfiltered reference information in tabular text (CSV)",
   "metadata.expand.all": "Expand all",
   "metadata.information.title": "Information",
   "metadata.no.value": "[Information is not available in the current language]",

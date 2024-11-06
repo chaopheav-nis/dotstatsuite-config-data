@@ -234,6 +234,7 @@
   "metadata.advanced.attributes": "Características de los datos",
   "metadata.collapse.all": "Desplegar todo",
   "metadata.download": "Descarga la selección en CSV",
+  "metadata.download.csv.all": {},
   "metadata.expand.all": "Expandir todo",
   "metadata.information.title": "Información",
   "metadata.no.value": "[La información no está disponible en el idioma actual]",
