@@ -234,7 +234,7 @@
   "metadata.advanced.attributes": "Gegevenskenmerken:",
   "metadata.collapse.all": "Alles inklappen",
   "metadata.download": "Download de selectie in CSV",
-  "metadata.download.csv.all": {},
+  "metadata.download.csv.all": "Ongefilterde referentie-informatie in tabelvorm (CSV)",
   "metadata.expand.all": "Alles uitvouwen",
   "metadata.information.title": "Informatie",
   "metadata.no.value": "[Informatie is niet beschikbaar in de huidige taal]",
