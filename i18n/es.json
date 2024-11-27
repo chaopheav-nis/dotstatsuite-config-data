@@ -29,7 +29,7 @@
   "chart.config.width": "Ancho",
   "chart.config.x.axis": "Eje (x)",
   "chart.config.y.axis": "Eje (y)",
-  "data.download.csv.error": "Error al descargar datos csv",
+  "data.download.csv.error": "No hay datos ni información de referencia para descargar para este conjunto de datos / selección de conjunto de datos.",
   "data.download.csv.launch": "Descarga lanzada",
   "data.download.csv.launch.detail": "Su descarga comenzará en breve. Mientras tanto, puedes seguir navegando.",
   "data.warning.url.too.long": "El filtro actual requiere una URL de página demasiado larga, lo que hace que esta vista de datos sea imposible de marcar o reutilizar. Es necesaria una selección de filtro reducida para utilizar estas funciones.",

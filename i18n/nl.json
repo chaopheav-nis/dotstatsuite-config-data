@@ -29,7 +29,7 @@
   "chart.config.width": "Breedte",
   "chart.config.x.axis": "As (x)",
   "chart.config.y.axis": "As (y)",
-  "data.download.csv.error": "Fout bij het downloaden van csv-gegevens",
+  "data.download.csv.error": "Er zijn geen gegevens of referentie-informatie om te downloaden voor deze dataset/datasetselectie.",
   "data.download.csv.launch": "Downloaden gestart",
   "data.download.csv.launch.detail": "Uw download zal binnenkort beginnen. In de tussentijd kunt u gewoon doorgaan met browsen.",
   "data.warning.url.too.long": "Het huidige filter vereist een te lange pagina-URL waardoor deze gegevensweergave onmogelijk kan worden gemarkeerd of hergebruikt. Een beperkte filterselectie is nodig om deze functies te gebruiken.",

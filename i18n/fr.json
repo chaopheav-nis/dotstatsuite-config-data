@@ -29,7 +29,7 @@
   "chart.config.width": "Largeur",
   "chart.config.x.axis": "Axe horizontal",
   "chart.config.y.axis": "Axe vertical",
-  "data.download.csv.error": "Echec lors du téléchargement",
+  "data.download.csv.error": "Il n'y a pas de données ou d'informations de référence à télécharger pour le dataset / la sélection.",
   "data.download.csv.launch": "Téléchargement lancé",
   "data.download.csv.launch.detail": "Votre téléchargement débutera sous peu. En attendant, vous pouvez continuer à naviguer.",
   "data.warning.url.too.long": "Le filtre actuel nécessite une URL de page trop longue, ce qui rend cette vue de données impossible à marquer ou à réutiliser. Une sélection de filtre réduite est nécessaire pour utiliser ces fonctionnalités.",
