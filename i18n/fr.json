@@ -251,7 +251,7 @@
   "sdmx.data.false": "Non",
   "sdmx.data.true": "Oui",
   "share.action": "Demander l'URL et le code d'intégration",
-  "share.disclaimer": "Pour partager et intégrer notre contenu en toute sécurité, nous vous enverrons les informations nécessaires par courrier électronique. Votre addresse électronique est uniquement utilisée pour permettre l'accès à ce service et sera protégée conformément à notre {link}.",
+  "share.disclaimer": "Pour partager et intégrer notre contenu en toute sécurité, nous vous enverrons les informations nécessaires par courrier électronique. Votre adresse électronique est uniquement utilisée pour permettre l'accès à ce service et sera protégée conformément à notre {link}.",
   "share.error.message": "Oups, quelque chose a échoué de notre côté",
   "share.error.title": "Erreur",
   "share.latest": "Utiliser les données les plus récentes pour la période définie",
