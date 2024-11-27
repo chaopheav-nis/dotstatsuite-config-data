@@ -29,7 +29,7 @@
   "chart.config.width": "Width",
   "chart.config.x.axis": "Horizontal axis",
   "chart.config.y.axis": "Vertical axis",
-  "data.download.csv.error": "Error when downloading csv data",
+  "data.download.csv.error": "There is no data or reference information to download for this dataset / dataset selection.",
   "data.download.csv.launch": "Download launched",
   "data.download.csv.launch.detail": "Your download will start shortly. In the meantime, you can continue browsing.",
   "data.warning.url.too.long": "The current data filter requires a too long page URL making this data view impossible to bookmark or re-use. A reduced filter selection is necessary to use these features.",
