@@ -666,5 +666,6 @@
   "dv.incomplete.table.cells.limit": "Ihre aktuelle Auswahl ({totalCells, number} Tabellenzellen) liegt über dem definierten Limit ({cellsLimit, number}), was zu einer unvollständigen Tabelle führt.",
   "dv.incomplete.vis.data.total.limit": "Ihre aktuelle Auswahl ({total, number} Datenpunkte) liegt über dem definierten Limit ({cellsLimit, number}), was zu einem unvollständigen {type, select, table {tabelle} other {diagramm}} führt.{br}Alle ausgewählten Datenpunkte können weiterhin als tabellarischer Text (CSV) heruntergeladen werden.",
   "layout.incompatible": "Ihre benutzerdefinierte Datenauswahl ist mit dem gespeicherten Layout nicht kompatibel",
-  "zh":"中文"
+  "zh":"中文",
+  "el": "Ελληνικά"
 }

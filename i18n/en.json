@@ -666,5 +666,6 @@
   "dv.incomplete.table.cells.limit": "Your current selection ({totalCells, number} table cells) is above the defined limit ({cellsLimit, number}) resulting in an incomplete table.",
   "dv.incomplete.vis.data.total.limit": "Your current selection ({total, number} data points) is above the defined limit ({cellsLimit, number}) resulting in an incomplete {type, select, table {table} other {chart}}.{br}All selected data points can still be downloaded in tabular text (CSV).",
   "layout.incompatible": "Your customized data selection is incompatible with the saved layout",
-  "zh":"中文"
+  "zh":"中文",
+  "el": "Ελληνικά"
 }

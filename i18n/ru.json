@@ -666,5 +666,6 @@
     "dv.incomplete.table.cells.limit": "Выбранная область ({totalCells, number} ячеек таблицы) превышает заданный предел ({cellsLimit, number}), таблица неполная.",
     "dv.incomplete.vis.data.total.limit": "Выбранные данные ({total, number} точек данных) превышают заданный предел ({cellsLimit, number}), таблица неполная {type, select, table{table} other{chart}}.{br} Все выбранные точки данных можно загрузить в формате CSV.",
     "layout.incompatible": "Настройки выбора данных несовместимы с сохраненным макетом",
-    "zh":"中文"
+    "zh":"中文",
+  "el": "Ελληνικά"
   }
