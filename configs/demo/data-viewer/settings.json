@@ -45,6 +45,10 @@
         "id": "th",
         "delimiters": { "thousands": " ", "decimal": ","  },
         "timeFormat": "MMM YYYY"
+      },
+      "el": {
+        "id": "en",
+        "delimiters": { "thousands": " ", "decimal": ","  }
       }
     }
   },

@@ -666,5 +666,6 @@
     "dv.incomplete.table.cells.limit": "您当前的选择（{totalCells, number} 个表格单元格）超出了定义的限制（{cellsLimit, number}），导致表格不完整。",
     "dv.incomplete.vis.data.total.limit": "您当前的选择（{total, number} 数据点）超出了定义的限制 ({cellsLimit, number})，导致{type, select, table {table} other {chart}}不完整。{br}仍然可以以表格文本 (CSV) 形式下载所有选定的数据点。",
     "layout.incompatible": "您的自定义数据选择与保存的布局不兼容",
-    "zh":"中文"
+    "zh":"中文",
+    "el": "Ελληνικά"
   }
