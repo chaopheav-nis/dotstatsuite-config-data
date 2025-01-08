@@ -192,6 +192,11 @@
         "id": "th",
         "delimiters": { "thousands": " ", "decimal": ","  },
         "timeFormat": "MMM YYYY"
+      },
+      "ru": {
+        "id": "ru",
+        "delimiters": { "thousands": " ", "decimal": ","  },
+        "timeFormat": "MMM YYYY"
       }
     }
   },
