@@ -188,7 +188,7 @@
     "de.viewer.copyright.content.link": "http://www.example.org/",
     "de.viewer.copyright.content.link.label": "Положения и условия",
     "de.viewer.copyright.label": "©",
-    "de.vis.data.points": "{obsCount} точки данных",
+    "de.vis.data.points": "{obsCount} Точки данных, выбранные в этом наборе данных:",
     "de.vis.disabled.item.label": "По текущим фильтрам отсутствуют данные для: ",
     "de.vis.map.loading": "загрузка карты...",
     "de.visualisation.data.larger.loading": "загрузка данных…{br}в качестве исключения на этой странице размер метки можно увеличить, но после этого страница может работать медленно или нестабильно",
