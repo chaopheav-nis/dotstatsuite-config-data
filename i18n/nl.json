@@ -119,7 +119,7 @@
   "de.search.dataflow.last.updated": "Laatste bijwerking:",
   "de.search.list.blank": "Geen zoekresultaat",
   "de.search.list.loading": "Zoeken…",
-  "de.search.list.status": "{size, number} {size, plural, one {resultaat} other {resultaten}}",
+  "de.search.list.status": "{size, number} {size, plural, one {dataset gevonden voor:} other {datasets gevonden voor:}}",
   "de.search.page": "Pagina",
   "de.search.page.of": "van",
   "de.search.result.alphabetical": "Alfabetisch",

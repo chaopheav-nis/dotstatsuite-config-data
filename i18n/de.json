@@ -119,7 +119,7 @@
   "de.search.dataflow.last.updated": "Zuletzt aktualisiert: ",
   "de.search.list.blank": "Kein Suchergebnis",
   "de.search.list.loading": "Die Suche läuft…",
-  "de.search.list.status": "{size, number} {size, plural, one {result} other {results}}",
+  "de.search.list.status": "{size, number} {size, plural, one {Datensatz gefunden für:} other {Datensätze gefunden für:}}",
   "de.search.page": "Seite",
   "de.search.page.of": "von",
   "de.search.result.alphabetical": "Alphabetisch",
