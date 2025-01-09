@@ -188,6 +188,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Términos y condiciones",
   "de.viewer.copyright.label": "©",
+  "de.vis.all.data.points": {},
   "de.vis.data.points": "{obsCount} puntos de datos seleccionados en este dataset con:",
   "de.vis.disabled.item.label": "No hay datos con filtros actuales para:",
   "de.vis.map.loading": "Cargando el mapa",
@@ -246,6 +247,7 @@
   "microdata.title": "Microdatos para {label}",
   "microdata.value": "Valor",
   "nl": "Nederlands",
+  "ru": "русский",
   "scopelist.selection.current": "Toda la lista desplegada",
   "scopelist.selection.level": "Todo el nivel jerárquico",
   "scopelist.selection.title": "Selección masiva",
@@ -333,6 +335,7 @@
   "wcag.table.layout.explanation": "Para cambiar el diseño de la tabla 1) Asegúrese de que su lector de pantalla está en modo focus o en modo forms 2) Utilice la tecla Tab para navegar por los ejes de la tabla (secciones Filas, Columnas o Filas) y sus dimensiones actuales 3) Utilice la tecla Barra espaciadora para seleccionar y deseleccionar una dimensión 4) Utilice las teclas de flecha izquierda y derecha para mover una dimensión entre ejes 5) Utilice las teclas de flecha arriba y abajo para reordenar una dimensión dentro de un eje.",
   "wcag.table.layout.start": "Ha levantado la dimensión {dragLabel} desde la posición {index} de {dragZone}",
   "wcag.table.layout.update": "Ha movido la dimensión seleccionada de {dragZone} a {dropZone} en la posición {index}; la posición más alta de {dropZone} es {length}.",
+  "zh": "中文",
   "action.add": "Agregar",
   "action.cancel": "Cancelar",
   "action.categorise": "Categorizar",
@@ -566,7 +569,6 @@
   "route.not.found": "Ruta no encontrada",
   "route.upload.data": "Cargar datos & metadatos referenciales",
   "route.upload.structure": "Cargar estructuras",
-  "ru":"русский",
   "sfs.index": "Dataflow (re)indexado",
   "sfs.index.error": "Error(es) durante la indexación",
   "sfs.index.success": "Indexación enviada con éxito",
@@ -666,6 +668,5 @@
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.table.cells.limit": "Su selección actual ({totalCells, number} celdas de la tabla) está por encima del límite definido ({cellsLimit, number}), lo que da como resultado una tabla incompleta.",
   "dv.incomplete.vis.data.total.limit": "Su selección actual ({total, number} puntos de datos) está por encima del límite definido ({cellsLimit, number}), lo que genera un {type, select, table {tabla} other {gráfico}} incompleto.{br}Todos los puntos de datos seleccionados todavía se puede descargar en texto tabular (CSV).",
-  "layout.incompatible": "Su selección de datos personalizada es incompatible con el diseño guardado",
-  "zh":"中文"
+  "layout.incompatible": "Su selección de datos personalizada es incompatible con el diseño guardado"
 }

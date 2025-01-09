@@ -188,6 +188,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Nutzungsbedingungen",
   "de.viewer.copyright.label": "©",
+  "de.vis.all.data.points": {},
   "de.vis.data.points": "{obsCount} In diesem Datensatz ausgewählte Datenpunkte mit:",
   "de.vis.disabled.item.label": "Keine Daten mit aktuellen Filtern für:",
   "de.vis.map.loading": "Laden der Karte…",
@@ -246,6 +247,7 @@
   "microdata.title": "Mikrodaten für {label}",
   "microdata.value": "Angaben",
   "nl": "Nederlands",
+  "ru": "русский",
   "scopelist.selection.current": "Gesamte aktuell angezeigte Liste",
   "scopelist.selection.level": "Gesamte Hierarchieebene",
   "scopelist.selection.title": "Massenauswahl",
@@ -333,6 +335,7 @@
   "wcag.table.layout.explanation": "So ändern Sie das Tabellenlayout 1) Stellen Sie sicher, dass sich Ihr Bildschirmleser im Fokus- oder Formularmodus befindet. 2) Navigieren Sie mit der Tabulatortaste zu den Tabellenachsen (Spalten, Zeilenblöcke oder Zeilen) mit deren aktuellen Dimensionen. 3) Wählen Sie mit der Leertaste eine Dimension aus or ab 4) Verwenden Sie die Links- und Rechts-Pfeiltasten, um eine Dimension zwischen den Achsen zu verschieben 5) Verwenden Sie die Aufwärts- und Abwärtspfeiltasten, um eine Dimension innerhalb einer Achse neu zu ordnen.",
   "wcag.table.layout.start": "Sie haben die Dimension {dragLabel} von {dragZone} Position {index} angehoben.",
   "wcag.table.layout.update": "Sie haben die ausgewählte Dimension von {dragZone} nach {dropZone} an Position {index} verschoben. Die höchste Position in {dropZone} ist {length}.",
+  "zh": "中文",
   "action.add": "Hinzufügen",
   "action.cancel": "Abbrechen",
   "action.categorise": "Kategorisieren",
@@ -566,7 +569,6 @@
   "route.not.found": "Route nicht gefunden",
   "route.upload.data": "Daten & referenzielle Metadaten hochladen",
   "route.upload.structure": "Strukturen hochladen",
-  "ru":"русский",
   "sfs.index": "Dataflow (re)indizieren",
   "sfs.index.error": "Fehler während der Indexierung",
   "sfs.index.success": "Indexierung erfolgreich eingereicht",
@@ -666,6 +668,5 @@
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.table.cells.limit": "Ihre aktuelle Auswahl ({totalCells, number} Tabellenzellen) liegt über dem definierten Limit ({cellsLimit, number}), was zu einer unvollständigen Tabelle führt.",
   "dv.incomplete.vis.data.total.limit": "Ihre aktuelle Auswahl ({total, number} Datenpunkte) liegt über dem definierten Limit ({cellsLimit, number}), was zu einem unvollständigen {type, select, table {tabelle} other {diagramm}} führt.{br}Alle ausgewählten Datenpunkte können weiterhin als tabellarischer Text (CSV) heruntergeladen werden.",
-  "layout.incompatible": "Ihre benutzerdefinierte Datenauswahl ist mit dem gespeicherten Layout nicht kompatibel",
-  "zh":"中文"
+  "layout.incompatible": "Ihre benutzerdefinierte Datenauswahl ist mit dem gespeicherten Layout nicht kompatibel"
 }
