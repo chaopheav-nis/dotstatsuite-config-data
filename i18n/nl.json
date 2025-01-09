@@ -188,6 +188,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Voorwaarden",
   "de.viewer.copyright.label": "©",
+  "de.vis.all.data.points": {},
   "de.vis.data.points": "{obsCount} datapunten geselecteerd in deze dataset met:",
   "de.vis.disabled.item.label": "Geen gegevens met huidige filters voor: ",
   "de.vis.map.loading": "Kaart aan het laden",
@@ -246,6 +247,7 @@
   "microdata.title": "Microdata voor {label}",
   "microdata.value": "Waarde",
   "nl": "Nederlands",
+  "ru": "русский",
   "scopelist.selection.current": "Gehele momenteel weergegeven lijst",
   "scopelist.selection.level": "Gehele hiërarchieniveau",
   "scopelist.selection.title": "Bulkselectie",
@@ -333,6 +335,7 @@
   "wcag.table.layout.explanation": "Om de lay-out van de tabel te wijzigen 1) Zorg ervoor dat uw schermlezer zich in de focusmodus of de formuliermodus bevindt 2) Gebruik de Tab-toets om te navigeren naar de tabelassen (Rijen, Kolommen of Rij-secties) en hun huidige afmetingen 3) Gebruik de Spatiebalktoets om een dimensie te selecteren en te deselecteren 4) Gebruik de pijltjestoetsen links en rechts om een dimensie tussen de assen te verplaatsen 5) Gebruik de pijltjestoetsen omhoog en omlaag om een dimensie binnen een as te herordenen.",
   "wcag.table.layout.start": "Je hebt de {dragLabel} dimensie van {dragZone} positie {index} opgeheven.",
   "wcag.table.layout.update": "U hebt de geselecteerde dimensie verplaatst van {dragZone} naar {dropZone} op positie {index}; de hoogste positie in {dropZone} is {lengte}.",
+  "zh": "中文",
   "action.add": "Toevoegen",
   "action.cancel": "Annuleren",
   "action.categorise": "categoriseren",
@@ -566,7 +569,6 @@
   "route.not.found": "Route niet gevonden",
   "route.upload.data": "Gegevens uploaden en verwijzende metagegevens",
   "route.upload.structure": "Structuren opladen",
-  "ru":"русский",
   "sfs.index": "(Her)index dataflow",
   "sfs.index.error": "Fout(en) tijdens indexatie",
   "sfs.index.success": "Indexatie succesvol ingediend",
@@ -666,6 +668,5 @@
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.table.cells.limit": "Uw huidige selectie ({totalCells, number} tabelcellen) is boven de gedefinieerde limiet ({cellsLimit, number}), wat resulteert in een onvolledige tabel.",
   "dv.incomplete.vis.data.total.limit": "Uw huidige selectie ({total, number} datapunten) is boven de gedefinieerde limiet ({cellsLimit, number}), wat resulteert in een onvolledige {type, select, table {tabel} other {grafiek}}.{br}Alle geselecteerde gegevenspunten kan nog steeds worden gedownload in tabelvorm (CSV).",
-  "layout.incompatible": "Uw aangepaste gegevensselectie is niet compatibel met de opgeslagen lay-out.",
-  "zh":"中文"
+  "layout.incompatible": "Uw aangepaste gegevensselectie is niet compatibel met de opgeslagen lay-out."
 }
