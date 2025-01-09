@@ -188,6 +188,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "ข้อกำหนดและเงื่อนไข",
   "de.viewer.copyright.label": "©",
+  "de.vis.all.data.points": {},
   "de.vis.data.points": "{obsCount} จุดข้อมูลที่เลือกในชุดข้อมูลนี้ด้วย:",
   "de.vis.disabled.item.label": "ไม่มีข้อมูลที่มีตัวกรองปัจจุบันสำหรับ: ",
   "de.vis.map.loading": "ร้านค้าแผนที่",
@@ -246,6 +247,7 @@
   "microdata.title": "Microdata สำหรับ {label}",
   "microdata.value": "ค่า",
   "nl": "Nederlands",
+  "ru": "русский",
   "scopelist.selection.current": "เลิอกปัจจุบัน",
   "scopelist.selection.level": "ระดับที่เลือก",
   "scopelist.selection.title": "เรื่องที่เลือก",
@@ -333,6 +335,7 @@
   "wcag.table.layout.explanation": "เมื่อต้องการเปลี่ยนรูปแบบตาราง 1) ตรวจสอบให้แน่ใจว่าโปรแกรมอ่านหน้าจอของคุณอยู่ในโหมดโฟกัสหรือโหมดฟอร์ม 2) ใช้แป้น Tab เพื่อนำทางแกนตาราง (คอลัมน์คอลัมน์หรือช่วงส่วน) และขนาดมิติปัจจุบัน 3) ใช้แป้น Space เพื่อเลือก และไม่เลือกขนาดของมิติข้อมูล 4) ใช้ปุ่มลูกศรซ้ายและขวาเพื่อย้ายขนาดมิติด้วยแกน 5) ใช้ปุ่มลูกศรขึ้นและลงเพื่อจัดแนวขนาดมิติใหม่กับแกน",
   "wcag.table.layout.start": "คุณได้เพิ่มมิติข้อมูล {dragLabel} จาก {draggableId สถานที่ {index สถานที่",
   "wcag.table.layout.update": "คุณได้ปรับขนาดมิติข้อมูลที่เลือกจาก {dragZone} เป็น {dropZone} ที่ {index สถานที่; ตำแหน่งสูงสุดใน {dropZone} คือ {Length}",
+  "zh": "中文",
   "action.add": "เพิ่ม",
   "action.cancel": "ยกเลิก",
   "action.categorise": "จัดหมวดหมู่",
@@ -566,7 +569,6 @@
   "route.not.found": "ไม่พบเส้นทาง",
   "route.upload.data": "อัปโหลดข้อมูลและข้อมูลเมตาอ้างอิง",
   "route.upload.structure": "อัพโหลดโครงสร้าง",
-  "ru":"русский",
   "sfs.index": "ดัชนีหรือสร้างดัชนีใหม่ dataflow",
   "sfs.index.error": "ข้อผิดพลาดระหว่างการสร้างดัชนี",
   "sfs.index.success": "ส่งการจัดทำดัชนีเรียบร้อยแล้ว",
@@ -666,6 +668,5 @@
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.table.cells.limit": "การเลือกปัจจุบันของคุณ ({totalCells, number} เซลล์ตาราง) อยู่เหนือขีดจำกัดที่กำหนดไว้ ({cellsLimit, number}) ส่งผลให้ตารางไม่สมบูรณ์",
   "dv.incomplete.vis.data.total.limit": "การเลือกปัจจุบันของคุณ (จุดข้อมูล {total, number} จุด) อยู่เหนือขีดจำกัดที่กำหนดไว้ ({cellsLimit, number}) ส่งผลให้ {type, select, table {ตาราง} other {แผนภูมิ}} ไม่ครบถ้วน{br}จุดข้อมูลที่เลือกทั้งหมด ยังคงสามารถดาวน์โหลดได้ในรูปแบบข้อความตาราง (CSV)",
-  "layout.incompatible": "ปรับแต่งข้อมูลแล้วไม่ตรงกับที่เลเอาต์ที่บันทึกไว้",
-  "zh":"中文"
+  "layout.incompatible": "ปรับแต่งข้อมูลแล้วไม่ตรงกับที่เลเอาต์ที่บันทึกไว้"
 }

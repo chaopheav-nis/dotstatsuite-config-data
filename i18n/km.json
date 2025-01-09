@@ -188,6 +188,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "ល័ក្ខខ័ណ្ឌ",
   "de.viewer.copyright.label": "©",
+  "de.vis.all.data.points": {},
   "de.vis.data.points": "{obsCount} ចំណុចទិន្នន័យដែលបានជ្រើសរើសនៅក្នុងសំណុំទិន្នន័យនេះជាមួយ៖",
   "de.vis.disabled.item.label": "គ្មានទិន្នន័យជាមួយតម្រងបច្ចុប្បន្នសម្រាប់៖ ",
   "de.vis.map.loading": "ផ្ទុកផែនទី",
@@ -246,6 +247,7 @@
   "microdata.title": "មីក្រូទិន្នន័យ សម្រាប់ {label}",
   "microdata.value": "តម្លៃ",
   "nl": "Nederlands",
+  "ru": "русский",
   "scopelist.selection.current": "បញ្ជីទាំងមូលដែលបានបង្ហាញបច្ចុប្បន្ន",
   "scopelist.selection.level": "កម្រិតឋានានុក្រមទាំងមូល",
   "scopelist.selection.title": "ការជ្រើសរើសច្រើន",
@@ -333,6 +335,7 @@
   "wcag.table.layout.explanation": "ដើម្បីផ្លាស់ប្តូរទ្រង់ទ្រាយតារាង ១) ត្រូវប្រាកដថាកម្មវិធីអានអេក្រង់របស់អ្នកស្ថិតនៅក្នុងទម្រង់ in focus mode ឬ ទម្រង់ forms mode ២) ប្រើគ្រាប់ចុច Tab ដើម្បីរុករកអ័ក្សតារាង (ជួរ ជួរឈរ ឬផ្នែកជួរផ្នែក) និងទំហំវិមាត្របច្ចុប្បន្ន ៣) ប្រើគ្រាប់ចុចដកឃ្លាដើម្បីជ្រើសរើស ហើយមិនបាច់ជ្រើសទំហំវិមាត្រទេ ៤) ប្រើគ្រាប់ចុចព្រួញឆ្វេងនិងស្ដាំដើម្បីផ្លាស់ទីទំហំវិមាត្រជាមួយនឹងអ័ក្ស ៥) ប្រើគ្រាប់ចុចព្រួញឡើងលើនិងចុះក្រោមដើម្បីតម្រឹមទំហំវិមាត្រឡើងវិញជាមួយនឹងអ័ក្ស។ ",
   "wcag.table.layout.start": "អ្នកបានលើកទំហំវិមាត្រ (dimensions) {dragLabel} ចេញពី {dragZone} នៅទីតាំង {index}",
   "wcag.table.layout.update": "អ្នកបានផ្លាស់ប្តូរទំហំវិមាត្រដែលបានជ្រើសរើសពី {dragZone} ទៅ {dropZone} នៅទីតាំង {index}; ទីតាំងខ្ពស់បំផុតនៅក្នុង {dropZone} គឺ {ប្រវែង} ។ ",
+  "zh": "中文",
   "action.add": "បន្ថែម",
   "action.cancel": "បោះបង់",
   "action.categorise": "ចាត់ថ្នាក់",
@@ -566,7 +569,6 @@
   "route.not.found": "រកមិនឃើញផ្លូវទេ។",
   "route.upload.data": "ផ្ទុកឡើងទិន្នន័យ និងទិន្នន័យមេតាយោង",
   "route.upload.structure": "ផ្ទុកឡើងរចនាសម្ព័ន្ធ",
-  "ru":"русский",
   "sfs.index": "លិបិក្រម ឬ លំហូរទិន្នន័យឡើងវិញ",
   "sfs.index.error": "កំហុសកំឡុងពេលធ្វើលិបិក្រម",
   "sfs.index.success": "ការដាក់លិបិក្រមត្រូវបានបញ្ជូនដោយជោគជ័យ",
@@ -666,6 +668,5 @@
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.table.cells.limit": "ការជ្រើសរើសបច្ចុប្បន្នរបស់អ្នក ({totalCells, number} ក្រឡាតារាង) គឺលើសពីដែនកំណត់ដែលបានកំណត់ ({cellsLimit, number}) ដែលបណ្តាលឱ្យតារាងមិនពេញលេញ។",
   "dv.incomplete.vis.data.total.limit": "ការជ្រើសរើសបច្ចុប្បន្នរបស់អ្នក ({total, number} ចំណុចទិន្នន័យ) គឺលើសពីដែនកំណត់ដែលបានកំណត់ ({cellsLimit, number}) ដែលបណ្តាលឱ្យមាន {type, select, table {តារាងទិន្នន័យ} other {តារាង}}។{br}រាល់ចំណុចទិន្នន័យដែលបានជ្រើសរើសទាំងអស់ នៅតែអាចទាញយកជាអត្ថបទតារាង (CSV)។",
-  "layout.incompatible": "ការជ្រើសរើសទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នកមិនឆបគ្នាជាមួយប្លង់ដែលបានរក្សាទុកទេ។",
-  "zh":"中文"
+  "layout.incompatible": "ការជ្រើសរើសទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នកមិនឆបគ្នាជាមួយប្លង់ដែលបានរក្សាទុកទេ។"
 }

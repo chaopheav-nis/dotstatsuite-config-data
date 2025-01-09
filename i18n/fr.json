@@ -188,6 +188,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Conditions d'utilisation",
   "de.viewer.copyright.label": "©",
+  "de.vis.all.data.points": "{obsCount} points de données",
   "de.vis.data.points": "{obsCount} points de données sélectionnés dans cet ensemble de données avec:",
   "de.vis.disabled.item.label": "Aucune donnée avec l'actuelle sélection pour : ",
   "de.vis.map.loading": "Carte en cours de chargement",
@@ -246,6 +247,7 @@
   "microdata.title": "Microdonnées pour {label}",
   "microdata.value": "Valeur",
   "nl": "Nederlands",
+  "ru": "русский",
   "scopelist.selection.current": "Liste complète actuellement affichée",
   "scopelist.selection.level": "Hiérarchie complète de niveau",
   "scopelist.selection.title": "Sélection massive",
@@ -333,6 +335,7 @@
   "wcag.table.layout.explanation": "Pour modifier la disposition des dimensions dans le tableau 1) Assurez-vous que votre lecteur d'écran est en mode focus ou forme 2) Utilisez ta touche Tab pour naviguer d'un axe à l'autre (lignes, colonnes ou sections de lignes) et leurs dimensions actuelles 3) Utilisez la touche Espace pour sélectionner et désélectionner une dimension 4) Utilisez les touches directionnelles Gauche et Droite pour déplacer les dimensions entre les axes 5) Utilisez les touches directionnelles Haut et Bas pour réordonner les dimensions dans un axe.",
   "wcag.table.layout.start": "Vous avez sélectionné la dimension {dragLabel} en position {index} des {dragZone}.",
   "wcag.table.layout.update": "Vous avez déplacé la dimension sélectionnée des {dragZone} vers la position {index} des {dropZone}; le nombre de dimensions dans cette {dropZone} est {length}.",
+  "zh": "中文",
   "action.add": "Ajouter",
   "action.cancel": "Annuler",
   "action.categorise": "Catégoriser",
@@ -566,7 +569,6 @@
   "route.not.found": "Route introuvable",
   "route.upload.data": "Import de données & métadonnées",
   "route.upload.structure": "Import de structures",
-  "ru":"русский",
   "sfs.index": "(Ré-)indexer le dataflow",
   "sfs.index.error": "Erreur(s) lors de l'indexation",
   "sfs.index.success": "Indexation soumise avec succès",
@@ -666,6 +668,5 @@
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.table.cells.limit": "Votre sélection actuelle ({totalCells, number} cellules du tableau) dépasse les limites de visualisation des données ({cellsLimit, number}), ce qui entraîne une table incomplète.",
   "dv.incomplete.vis.data.total.limit": "Votre sélection actuelle (maximum {total, number} points de données) dépasse les limites ({cellsLimit, number}) ce qui entraîne {type, select, table {une table incomplete} other {un graphique incomplet}}.",
-  "layout.incompatible": "Votre sélection de données personnalisée est incompatible avec la mise en page enregistrée.",
-  "zh":"中文"
+  "layout.incompatible": "Votre sélection de données personnalisée est incompatible avec la mise en page enregistrée."
 }

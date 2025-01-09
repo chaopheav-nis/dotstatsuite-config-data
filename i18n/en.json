@@ -188,6 +188,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Terms & conditions",
   "de.viewer.copyright.label": "©",
+  "de.vis.all.data.points": "{obsCount} data points",
   "de.vis.data.points": "{obsCount} data points selected in this dataset with:",
   "de.vis.disabled.item.label": "No data with current filters for: ",
   "de.vis.map.loading": "loading the map…",
@@ -246,6 +247,7 @@
   "microdata.title": "Microdata for {label}",
   "microdata.value": "Value",
   "nl": "Nederlands",
+  "ru": "русский",
   "scopelist.selection.current": "Entire currently displayed list",
   "scopelist.selection.level": "Entire hierarchy level",
   "scopelist.selection.title": "Bulk selection",
@@ -333,6 +335,7 @@
   "wcag.table.layout.explanation": "To change the table layout 1) Ensure your screen reader is in focus mode or forms mode 2) Use the Tab key to navigate to the table axes (Rows, Columns or Row sections) and their current dimensions 3) Use the Spacebar key to select and unselect a dimension 4) Use Left and Right arrow keys to move a dimension between axes 5) Use Up and Down arrow keys to re-order a dimension within an axis.",
   "wcag.table.layout.start": "You have lifted the {dragLabel} dimension from {dragZone} position {index}.",
   "wcag.table.layout.update": "You have moved the selected dimension from {dragZone} to {dropZone} at position {index}; the highest position in {dropZone} is {length}.",
+  "zh": "中文",
   "action.add": "Add",
   "action.cancel": "Cancel",
   "action.categorise": "Categorise",
@@ -566,7 +569,6 @@
   "route.not.found": "Route not found",
   "route.upload.data": "Upload data & referential metadata",
   "route.upload.structure": "Upload structures",
-  "ru":"русский",
   "sfs.index": "(Re-)index dataflow",
   "sfs.index.error": "Error(s) during indexation",
   "sfs.index.success": "(Re-)indexation successfully submitted",
@@ -666,6 +668,5 @@
   "dv.app.title": ".Stat Data Viewer",
   "dv.incomplete.table.cells.limit": "Your current selection ({totalCells, number} table cells) is above the defined limit ({cellsLimit, number}) resulting in an incomplete table.",
   "dv.incomplete.vis.data.total.limit": "Your current selection ({total, number} data points) is above the defined limit ({cellsLimit, number}) resulting in an incomplete {type, select, table {table} other {chart}}.{br}All selected data points can still be downloaded in tabular text (CSV).",
-  "layout.incompatible": "Your customized data selection is incompatible with the saved layout",
-  "zh":"中文"
+  "layout.incompatible": "Your customized data selection is incompatible with the saved layout"
 }
