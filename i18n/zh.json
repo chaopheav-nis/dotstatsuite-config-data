@@ -188,7 +188,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "条款和条件",
   "de.viewer.copyright.label": "©",
-  "de.vis.all.data.points": {},
+  "de.vis.all.data.points": "{obsCount} 数据点",
   "de.vis.data.points": "{obsCount} 在此数据集中选择的数据点：",
   "de.vis.disabled.item.label": "当前筛选条件没有数据： ",
   "de.vis.map.loading": "正在加载地图……",

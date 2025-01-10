@@ -188,7 +188,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Voorwaarden",
   "de.viewer.copyright.label": "©",
-  "de.vis.all.data.points": {},
+  "de.vis.all.data.points": "{obsCount} datapunten",
   "de.vis.data.points": "{obsCount} datapunten geselecteerd in deze dataset met:",
   "de.vis.disabled.item.label": "Geen gegevens met huidige filters voor: ",
   "de.vis.map.loading": "Kaart aan het laden",

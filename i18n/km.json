@@ -188,7 +188,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "ល័ក្ខខ័ណ្ឌ",
   "de.viewer.copyright.label": "©",
-  "de.vis.all.data.points": {},
+  "de.vis.all.data.points": "{obsCount} ចំណុចទិន្នន័យ",
   "de.vis.data.points": "{obsCount} ចំណុចទិន្នន័យដែលបានជ្រើសរើសនៅក្នុងសំណុំទិន្នន័យនេះជាមួយ៖",
   "de.vis.disabled.item.label": "គ្មានទិន្នន័យជាមួយតម្រងបច្ចុប្បន្នសម្រាប់៖ ",
   "de.vis.map.loading": "ផ្ទុកផែនទី",

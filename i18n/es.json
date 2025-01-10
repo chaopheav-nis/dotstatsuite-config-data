@@ -188,7 +188,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Términos y condiciones",
   "de.viewer.copyright.label": "©",
-  "de.vis.all.data.points": {},
+  "de.vis.all.data.points": "{obsCount} puntos de datos",
   "de.vis.data.points": "{obsCount} puntos de datos seleccionados en este dataset con:",
   "de.vis.disabled.item.label": "No hay datos con filtros actuales para:",
   "de.vis.map.loading": "Cargando el mapa",
