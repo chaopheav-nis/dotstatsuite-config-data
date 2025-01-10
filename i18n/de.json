@@ -188,7 +188,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "Nutzungsbedingungen",
   "de.viewer.copyright.label": "©",
-  "de.vis.all.data.points": {},
+  "de.vis.all.data.points": "{obsCount} Datenpunkte",
   "de.vis.data.points": "{obsCount} In diesem Datensatz ausgewählte Datenpunkte mit:",
   "de.vis.disabled.item.label": "Keine Daten mit aktuellen Filtern für:",
   "de.vis.map.loading": "Laden der Karte…",

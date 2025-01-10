@@ -188,7 +188,7 @@
   "de.viewer.copyright.content.link": "http://www.example.org/",
   "de.viewer.copyright.content.link.label": "الشروط و الاحكام",
   "de.viewer.copyright.label": "©",
-  "de.vis.all.data.points": "{obsCount} نقطة بيانات",
+  "de.vis.all.data.points": "{obsCount} نقاط البيانات",
   "de.vis.data.points": "{obsCount} نقطة بيانات مختارة في هذه المجموعة من البيانات مع:",
   "de.vis.disabled.item.label": "لا توجد بيانات مع عوامل التصفية الحالية لـ:",
   "de.vis.map.loading": "تحميل الخريطة",
