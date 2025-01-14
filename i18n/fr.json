@@ -120,6 +120,7 @@
   "de.search.list.blank": "Aucun résultat trouvé.",
   "de.search.list.loading": "Recherche en cours…",
   "de.search.list.status": "{size, number} {size, plural, one {ensemble de données trouvé pour:} other {ensembles de données trouvés pour:}}",
+  "de.search.list.status.freetext": {},
   "de.search.page": "Page",
   "de.search.page.of": "sur",
   "de.search.result.alphabetical": "Alphabétique",

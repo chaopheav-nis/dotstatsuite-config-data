@@ -120,6 +120,7 @@
   "de.search.list.blank": "无搜索结果",
   "de.search.list.loading": "搜索……",
   "de.search.list.status": "{size, number} {size, plural, one {找到的数据集：} other {找到的数据集：}}",
+  "de.search.list.status.freetext": {},
   "de.search.page": "页码",
   "de.search.page.of": "……的",
   "de.search.result.alphabetical": "按字母顺序",

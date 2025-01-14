@@ -120,6 +120,7 @@
   "de.search.list.blank": "Поиск не дал результатов",
   "de.search.list.loading": "Поиск...",
   "de.search.list.status": "{size, number} {size, plural, one {набор данных найден для:} other {Найдено наборов данных для:}}",
+  "de.search.list.status.freetext": {},
   "de.search.page": "Страница",
   "de.search.page.of": "из",
   "de.search.result.alphabetical": "По алфавиту",
