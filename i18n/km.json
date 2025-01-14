@@ -120,6 +120,7 @@
   "de.search.list.blank": "ការស្វែងរកមិនមានលទ្ធផល",
   "de.search.list.loading": "ស្វែងរក…",
   "de.search.list.status": "{size, number} {size, plural, one {សំណុំទិន្នន័យបានរកឃើញសម្រាប់៖} other {សំណុំទិន្នន័យបានរកឃើញសម្រាប់៖}}",
+  "de.search.list.status.freetext": {},
   "de.search.page": "ទំព័រ",
   "de.search.page.of": "នៃ",
   "de.search.result.alphabetical": "អក្ខរក្រម",

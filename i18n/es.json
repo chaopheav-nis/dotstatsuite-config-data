@@ -120,6 +120,7 @@
   "de.search.list.blank": "No se obtuvieron resultados",
   "de.search.list.loading": "Buscando…",
   "de.search.list.status": "{size, number} {size, plural, one {dataset encontrado para:} other {datasets encontrados para:}}",
+  "de.search.list.status.freetext": {},
   "de.search.page": "Página",
   "de.search.page.of": "de",
   "de.search.result.alphabetical": "Alfabético",
