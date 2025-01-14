@@ -120,6 +120,7 @@
   "de.search.list.blank": "لم يتم العثور على نتائج.",
   "de.search.list.loading": "البحث في التقدم…",
   "de.search.list.status": "{size, number} {size, plural, one {تم العثور على مجموعة البيانات لـ:} other {تم العثور على مجموعات البيانات لـ:}}",
+  "de.search.list.status.freetext": {},
   "de.search.page": "صفحة",
   "de.search.page.of": "ن",
   "de.search.result.alphabetical": "أبجدي",
