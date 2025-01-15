@@ -120,7 +120,7 @@
   "de.search.list.blank": "Geen zoekresultaat",
   "de.search.list.loading": "Zoeken…",
   "de.search.list.status": "{size, number} {size, plural, one {dataset gevonden voor:} other {datasets gevonden voor:}}",
-  "de.search.list.status.freetext": {},
+  "de.search.list.status.freetext": "{size, number} {size, plural, one {dataset gevonden:} other {datasets gevonden:}}",
   "de.search.page": "Pagina",
   "de.search.page.of": "van",
   "de.search.result.alphabetical": "Alfabetisch",
