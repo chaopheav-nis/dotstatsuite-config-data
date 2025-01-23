@@ -314,6 +314,7 @@
   "vx.filters.current.title": "Données sélectionnées dans cet ensemble de données avec:",
   "vx.no.data": "Il n'y a actuellement pas de données disponibles pour ce dataset. Veuillez réessayer plus tard.",
   "vx.no.data.selection": "Il n'y a pas de données pour la sélection actuelle. Veuillez modifier la sélection.",
+  "vx.no.map": {},
   "vx.no.time.data": "Les données ne reposant pas sur une dimension temporelle, une courbe chronologique ne peut être affichée",
   "vx.spotlight.placeholder": "Recherche par mots-clés",
   "vx.spotlight.placeholder.primary": "Chercher dans les {total} éléments",

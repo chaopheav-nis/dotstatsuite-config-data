@@ -314,6 +314,7 @@
   "vx.filters.current.title": "此数据集中选择的数据具有：",
   "vx.no.data": "目前该数据集没有可用数据。请稍后再试。",
   "vx.no.data.selection": "当前选择没有数据。请更改选择。",
+  "vx.no.map": {},
   "vx.no.time.data": "由于数据没有时间维度，因此无法显示时间线图表。",
   "vx.spotlight.placeholder": "按关键字搜索",
   "vx.spotlight.placeholder.primary": "在所有项目中搜索",

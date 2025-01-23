@@ -314,6 +314,7 @@
   "vx.filters.current.title": "In diesem Datensatz ausgewählte Daten mit:",
   "vx.no.data": "Für diesen Datensatz sind derzeit keine Daten verfügbar. Bitte versuchen Sie es später erneut.",
   "vx.no.data.selection": "Für die aktuelle Auswahl liegen keine Daten vor. Bitte ändern Sie die Auswahl.",
+  "vx.no.map": {},
   "vx.no.time.data": "Ein Zeitachsendiagramm kann nicht angezeigt werden, da die Daten keine Zeitdimension haben.",
   "vx.spotlight.placeholder": "Suche nach Schlüsselwörtern…",
   "vx.spotlight.placeholder.primary": "Suchen Sie unten in allen {total} Artikeln",

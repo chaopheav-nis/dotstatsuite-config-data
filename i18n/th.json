@@ -314,6 +314,7 @@
   "vx.filters.current.title": "ข้อมูลที่เลือกในชุดข้อมูลนี้ด้วย:",
   "vx.no.data": "ขณะนี้ไม่มีข้อมูลสำหรับชุดข้อมูลนี้ โปรดลองอีกครั้งในภายหลัง.",
   "vx.no.data.selection": "ไม่มีข้อมูลสำหรับตัวเลือกปัจจุบันโปรดเปลี่ยนตัวเลือก",
+  "vx.no.map": {},
   "vx.no.time.data": "ไม่มีเวลา",
   "vx.spotlight.placeholder": "ค้นหา ...",
   "vx.spotlight.placeholder.primary": "ค้นหาในรายการทั้งหมด {total} รายการด้านล่าง",

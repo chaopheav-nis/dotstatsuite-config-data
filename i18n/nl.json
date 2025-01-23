@@ -314,6 +314,7 @@
   "vx.filters.current.title": "Gegevens geselecteerd in deze dataset met:",
   "vx.no.data": "Er zijn momenteel geen gegevens beschikbaar voor deze dataset. Probeer het later opnieuw.",
   "vx.no.data.selection": "Er zijn geen gegevens voor de huidige selectie.  Gelieve de selectie te wijzigen.",
+  "vx.no.map": {},
   "vx.no.time.data": "Er kan geen tijdlijndiagram worden weergegeven omdat de gegevens geen tijddimensie hebben.",
   "vx.spotlight.placeholder": "zoek...",
   "vx.spotlight.placeholder.primary": "Zoek in alle {total} items hieronder",
