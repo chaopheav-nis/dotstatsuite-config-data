@@ -324,6 +324,8 @@
   "wcag.filters.search.help": "ตัวกรองจะถูกทำเครื่องหมายเป็นจุดเมื่อมีรายการคำพูดก่อนเสมอ",
   "wcag.filters.tag.label": "{count, plural, =0 {all active items} =1 {one seleceted item} other {# selected items}} against {total,number} ",
   "wcag.last.n.label": "{value} จำนวนคงที่ของ {mode} ล่าสุดที่มีอยู่",
+  "wcag.logo.app.alt.text": {},
+  "wcag.logo.siscc.alt.text": {},
   "wcag.pinned": "โฮสต์",
   "wcag.scopelist.navigate.backHelper": "กลับสู่ระดับนี้",
   "wcag.scopelist.navigate.children": "เจาะลึกไปอีกระดับ",
