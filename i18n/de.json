@@ -324,6 +324,8 @@
   "wcag.filters.search.help": "Mit einem Punkt gekennzeichnete Filter werden, sofern verfügbar, immer zuerst aufgelistet.",
   "wcag.filters.tag.label": "{count, plural, =0 {all active items} =1 {one seleceted item} other {# selected items}} against {total,number} ",
   "wcag.last.n.label": "{value} feste Anzahl der neuesten verfügbaren {mode}",
+  "wcag.logo.app.alt.text": {},
+  "wcag.logo.siscc.alt.text": {},
   "wcag.pinned": "gepinnt",
   "wcag.scopelist.navigate.backHelper": "Zurück zu dieser Ebene",
   "wcag.scopelist.navigate.children": "Drilldown zur nächsten Ebene",
