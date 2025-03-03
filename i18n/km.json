@@ -570,7 +570,7 @@
   "pit.upload.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-dlm/manage-data/upload-data/point-in-time/",
   "resource.add": "បន្ថែមធនធានខាងក្រៅ",
   "resource.field.all.locales": "ភាសាដែលមានទាំងអស់។",
-  "resource.icons": "រូបភាពរូបតំណាងដែលត្រូវបង្ហាញ (ជាជម្រើស)៖",
+  "resource.icons": "រូបភាពរូបតំណាងដែលត្រូវបង្ហាញ (ជាជម្រើស - បន្ថែមតំណខ្ពស់ ឬប្រើរូបតំណាងដែលបានកំណត់ជាមុនពីបញ្ជី)៖",
   "resource.icons.add": "បន្ថែមរូបតំណាងថ្មី។",
   "resource.icons.empty": "មិនមានរូបតំណាងបន្ថែមទេ។",
   "resource.labels": "ស្លាកនៃតំណភ្ជាប់ដែលត្រូវបង្ហាញ (ទាមទារ)៖",
