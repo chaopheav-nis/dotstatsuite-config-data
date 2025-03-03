@@ -571,7 +571,7 @@
   "resource.icons": "Icons images to be displayed (optional):",
   "resource.icons.add": "Add a new icon",
   "resource.icons.empty": "No icons added",
-  "resource.labels": "Labels of the link to be displayed (required):",
+  "resource.labels": "Labels of the links to be displayed (required):",
   "resource.labels.add": "Add a new label",
   "resource.labels.empty": "No labels added",
   "resource.labels.missing.locales": "Missing label(s) for following locales: {locales}",
