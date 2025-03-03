@@ -570,7 +570,7 @@
   "pit.upload.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-dlm/manage-data/upload-data/point-in-time/",
   "resource.add": "Een externe bron toevoegen",
   "resource.field.all.locales": "Alle beschikbare talen",
-  "resource.icons": "Weer te geven pictogrammen (optioneel):",
+  "resource.icons": "Weer te geven pictogrammen (optioneel: voeg een hyperlink toe of gebruik een vooraf gedefinieerd pictogram uit de lijst):",
   "resource.icons.add": "Voeg een nieuw pictogram toe",
   "resource.icons.empty": "Geen iconen toegevoegd",
   "resource.labels": "Labels van de weer te geven links (verplicht):",

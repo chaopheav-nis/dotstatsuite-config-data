@@ -570,7 +570,7 @@
   "pit.upload.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-dlm/upload-data/point-in-time/",
   "resource.add": "添加外部资源",
   "resource.field.all.locales": "所有可用语言",
-  "resource.icons": "要显示的图标图像（可选）：",
+  "resource.icons": "要显示的图标图像（可选 - 添加超链接或使用列表中的预定义图标）：",
   "resource.icons.add": "添加新图标",
   "resource.icons.empty": "未添加图标",
   "resource.labels": "要显示的链接的标签（必填）：",

@@ -570,7 +570,7 @@
   "pit.upload.info": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-dlm/upload-data/point-in-time/",
   "resource.add": "Добавить внешний ресурс",
   "resource.field.all.locales": "Добавить внешний ресурс",
-  "resource.icons": "Изображения иконок для отображения (необязательно):",
+  "resource.icons": "Изображения значков, которые будут отображаться (необязательно — добавьте гиперссылку или используйте предопределенный значок из списка):",
   "resource.icons.add": "Добавить новый значок",
   "resource.icons.empty": "Значки не добавлены.",
   "resource.labels": "Метки отображаемых ссылок (обязательно):",
