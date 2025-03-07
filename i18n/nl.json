@@ -527,6 +527,7 @@
   "logs.list.execution.start": "Uitvoering start",
   "logs.list.execution.status": "Uitvoeringsstatus",
   "logs.list.request": "Log-ID",
+  "logs.list.source": {},
   "logs.list.space": "Ruimte",
   "logs.list.status": "{current, number} {current, plural, one {logboek} other {logboeken}} van de {total, number}",
   "logs.list.structure": "Structuur-ID",

@@ -527,6 +527,7 @@
   "logs.list.execution.start": "Inicio de ejecución",
   "logs.list.execution.status": "Estado de ejecución",
   "logs.list.request": "ID de log",
+  "logs.list.source": {},
   "logs.list.space": "Espacio",
   "logs.list.status": "{current, number} {current, plural, one {registro} other {registros}} de {total, number}",
   "logs.list.structure": "Identificación de la estructura",
