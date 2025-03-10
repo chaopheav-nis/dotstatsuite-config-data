@@ -573,7 +573,7 @@
   "resource.icons": "Icons images to be displayed (optional):",
   "resource.icons.add": "Add a new icon",
   "resource.icons.empty": "No icons added",
-  "resource.icons.help":  "Enter a publicly accessible link of an image format, or use one of the default icons form the list",
+  "resource.icons.help":  "Enter a publicly accessible link of an image format, or use one of the default icons from the list",
   "resource.labels": "Labels of the links to be displayed (required):",
   "resource.labels.add": "Add a new label",
   "resource.labels.empty": "No labels added",

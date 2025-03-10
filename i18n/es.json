@@ -573,7 +573,7 @@
   "resource.icons": "Imágenes de iconos a mostrar (opcional):",
   "resource.icons.add": "Agregar un nuevo icono",
   "resource.icons.empty": "No se han añadido iconos",
-  "resource.icons.help": {},
+  "resource.icons.help": "Introduzca un enlace de acceso público de un formato de imagen o utilice uno de los íconos predeterminados de la lista",
   "resource.labels": "Etiquetas de los enlaces a mostrar (obligatorio):",
   "resource.labels.add": "Agregar una nueva etiqueta",
   "resource.labels.empty": "No se han añadido etiquetas",

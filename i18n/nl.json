@@ -573,7 +573,7 @@
   "resource.icons": "Weer te geven pictogrammen (optioneel):",
   "resource.icons.add": "Voeg een nieuw pictogram toe",
   "resource.icons.empty": "Geen iconen toegevoegd",
-  "resource.icons.help": {},
+  "resource.icons.help": "Voer een openbaar toegankelijke link in van een afbeeldingsformaat, of gebruik een van de standaardpictogrammen uit de lijst",
   "resource.labels": "Labels van de weer te geven links (verplicht):",
   "resource.labels.add": "Een nieuw label toevoegen",
   "resource.labels.empty": "Geen labels toegevoegd",

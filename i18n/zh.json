@@ -573,7 +573,7 @@
   "resource.icons": "要显示的图标图像（可选）：",
   "resource.icons.add": "添加新图标",
   "resource.icons.empty": "未添加图标",
-  "resource.icons.help": {},
+  "resource.icons.help": "输入可公开访问的图像格式链接，或使用列表中的默认图标之一",
   "resource.labels": "要显示的链接的标签（必填）：",
   "resource.labels.add": "添加新标签",
   "resource.labels.empty": "添加新标签",
