@@ -573,7 +573,7 @@
   "resource.icons": "Anzuzeigende Symbolbilder (optional):",
   "resource.icons.add": "Neues Symbol hinzufügen",
   "resource.icons.empty": "Keine Icons hinzugefügt",
-  "resource.icons.help": {},
+  "resource.icons.help": "Geben Sie einen öffentlich zugänglichen Link eines Bildformats ein oder verwenden Sie eines der Standardsymbole aus der Liste",
   "resource.labels": "Beschriftungen der anzuzeigenden Links (Pflichtfeld):",
   "resource.labels.add": "Neues Etikett hinzufügen",
   "resource.labels.empty": "Keine Labels hinzugefügt",
