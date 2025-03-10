@@ -573,7 +573,7 @@
   "resource.icons": "รูปภาพไอคอนที่จะแสดง (ทางเลือก):",
   "resource.icons.add": "เพิ่มไอคอนใหม่",
   "resource.icons.empty": "ไม่มีการเพิ่มไอคอน",
-  "resource.icons.help": {},
+  "resource.icons.help": "ป้อนลิงก์รูปแบบภาพที่สามารถเข้าถึงได้สาธารณะหรือใช้ไอคอนเริ่มต้นอันใดอันหนึ่งจากรายการ",
   "resource.labels": "ป้ายชื่อของลิงก์ที่จะแสดง (จำเป็น):",
   "resource.labels.add": "เพิ่มฉลากใหม่",
   "resource.labels.empty": "ไม่มีการเพิ่มป้ายกำกับ",

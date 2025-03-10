@@ -573,7 +573,7 @@
   "resource.icons": "Images d'icônes à afficher (facultatif) :",
   "resource.icons.add": "Ajouter une nouvelle icône",
   "resource.icons.empty": "Aucune icône ajoutée",
-  "resource.icons.help": {},
+  "resource.icons.help": "Saisissez un lien public vers une image, ou utilisez l'une des icônes prédéfinies de la liste",
   "resource.labels": "Libellés des liens à afficher (obligatoire) :",
   "resource.labels.add": "Ajouter une nouveau Libellé",
   "resource.labels.empty": "Aucun libellé ajouté",
