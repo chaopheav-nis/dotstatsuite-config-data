@@ -527,6 +527,7 @@
   "logs.list.execution.start": "بدء التنفيذ",
   "logs.list.execution.status": "حالة التنفيذ",
   "logs.list.request": "معرف السجل",
+  "logs.list.source": "مصدر",
   "logs.list.space": "مساحة",
   "logs.list.status": "{current, number} {current, plural, one {سجل} other {السجلات}} من {total, number}",
   "logs.list.structure": "معرف الهيكل",

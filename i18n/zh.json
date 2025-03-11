@@ -527,6 +527,7 @@
   "logs.list.execution.start": "执行开始",
   "logs.list.execution.status": "现状",
   "logs.list.request": "日志 id",
+  "logs.list.source": "来源",
   "logs.list.space": "空格",
   "logs.list.status": "{current, number}{total, number} 中的{current, plural, one {log} other {logs}}",
   "logs.list.structure": "结构 id",
