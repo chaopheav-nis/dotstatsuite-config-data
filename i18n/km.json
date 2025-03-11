@@ -527,6 +527,7 @@
   "logs.list.execution.start": "ការចាប់ផ្តើមប្រតិបត្តិ",
   "logs.list.execution.status": "ស្ថានភាពប្រតិបត្តិ",
   "logs.list.request": "ស្នើសុំលេខសម្គាល់",
+  "logs.list.source": "ប្រភព",
   "logs.list.space": "លំហ",
   "logs.list.status": "{current, number} {current, plural, one {កំណត់ហេតុ} other {កំណត់ហេតុ}} ក្នុងចំណោម {total, number}",
   "logs.list.structure": "លេខសម្គាល់រចនាសម្ព័ន្ធ",

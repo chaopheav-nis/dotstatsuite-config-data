@@ -527,6 +527,7 @@
   "logs.list.execution.start": "Конец выполнения",
   "logs.list.execution.status": "Статус",
   "logs.list.request": "ID журнала",
+  "logs.list.source": "Источник",
   "logs.list.space": "Область",
   "logs.list.status": "{current, number} {current, plural, one {log} other {logs}} из {total, number}",
   "logs.list.structure": "ID структуры",
