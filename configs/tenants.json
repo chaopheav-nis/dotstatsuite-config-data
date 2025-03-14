@@ -4,6 +4,20 @@
     "label": "demo",
     "default": true,
     "spaces": {
+      "demo-hpr": {
+        "label": "demo-hpr",
+        "hasRangeHeader": true,
+        "supportsReferencePartial": true,
+        "supportsPostLongRequests": true,
+        "hasLastNObservations": false,
+        "url": "http://localhost:82/rest",
+        "urlv3": "http://localhost:82/rest/v2",
+        "headers": {
+          "data": {
+            "json": "application/vnd.sdmx.data+json;version=2.0"
+          }
+        }
+      },
       "demo-release": {
         "label": "demo-release",
         "hasRangeHeader": true,
@@ -34,6 +48,22 @@
       }
     },
     "datasources": {
+      "ds-demo-hpr": {
+        "dataSpaceId": "demo-hpr",
+        "indexed": true,
+        "dataqueries": [
+          {
+            "version": "1.0",
+            "categorySchemeId": "TOPICS",
+            "agencyId": "CH1"
+          },
+          {
+            "version": "1.0",
+            "categorySchemeId": "OECDCS1",
+            "agencyId": "OECD"
+          }
+        ]
+      },
       "ds-demo-release": {
         "dataSpaceId": "demo-release",
         "indexed": true,
@@ -77,6 +107,14 @@
         },
         "spaces": [
           {
+            "id": "demo-hpr",
+            "color": "white",
+            "backgroundColor": "#468F0A",
+            "label": "demo-hpr",
+            "transferUrl": "http://localhost:93/2",
+            "dataExplorerUrl": "http://localhost:7001"
+          },
+          {
             "id": "demo-release",
             "color": "white",
             "backgroundColor": "#606A80",
@@ -105,11 +143,13 @@
         },
         "spaces": [
           "demo-design",
-          "demo-release"
+          "demo-release",
+		  "demo-hpr"
         ],
         "datasources": [
           "ds-demo-design",
-          "ds-demo-release"
+          "ds-demo-release",
+		  "ds-demo-hpr"
         ]
       }
     }
