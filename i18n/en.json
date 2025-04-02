@@ -1,7 +1,8 @@
 {
   "accessibility.disable": "Disable accessibility support",
   "accessibility.enable": "Enable accessibility support",
-  "accessibility.support": "Accessibility support",
+  "accessibility.support.disabled": "Accessibility support disabled",
+  "accessibility.support.enabled": "Accessibility support enabled",
   "ar": "العربية",
   "auth.required": "You are not authenticated, or your authentication timed out.{br} Click below to log in.{br} If it fails, then contact your system administrator",
   "chart.choropleth": "Colour map {map}",
@@ -575,7 +576,7 @@
   "resource.icons": "Icons images to be displayed (optional):",
   "resource.icons.add": "Add a new icon",
   "resource.icons.empty": "No icons added",
-  "resource.icons.help":  "Enter a publicly accessible link of an image format, or use one of the default icons from the list",
+  "resource.icons.help": "Enter a publicly accessible link of an image format, or use one of the default icons from the list",
   "resource.labels": "Labels of the links to be displayed (required):",
   "resource.labels.add": "Add a new label",
   "resource.labels.empty": "No labels added",

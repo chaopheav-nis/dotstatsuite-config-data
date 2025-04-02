@@ -1,7 +1,8 @@
 {
   "accessibility.disable": "Desactivar accesibilidad",
   "accessibility.enable": "Activar accesibilidad",
-  "accessibility.support": "Soporte de accesibilidad",
+  "accessibility.support.disabled": {},
+  "accessibility.support.enabled": {},
   "ar": "العربية",
   "auth.required": "No está autenticado o se agotó el tiempo de espera de su autenticación.{br} Haga clic a continuación para iniciar sesión.{br} Si falla, comuníquese con el administrador del sistema",
   "chart.choropleth": "Mapa de colores {map}",

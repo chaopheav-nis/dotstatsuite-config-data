@@ -1,7 +1,8 @@
 {
   "accessibility.disable": "Отключить поддержку специальных возможностей",
   "accessibility.enable": "Включить поддержку специальных возможностей",
-  "accessibility.support": "Специальные возможности",
+  "accessibility.support.disabled": {},
+  "accessibility.support.enabled": {},
   "ar": "العربية",
   "auth.required": "Вы не авторизованы, либо срок авторизации истек.{br} Для входа нажмите кнопку внизу.{br} Если вы не смогли войти, обратитесь к системному администратору",
   "chart.choropleth": "Цветовая схема {map}",

@@ -1,7 +1,8 @@
 {
   "accessibility.disable": "禁用辅助功能支持",
   "accessibility.enable": "启用辅助功能支持",
-  "accessibility.support": "辅助功能支持",
+  "accessibility.support.disabled": {},
+  "accessibility.support.enabled": {},
   "ar": "العربية",
   "auth.required": "您尚未通过身份验证，或者您的身份验证超时。{br}点击下面登录。{br}如果失败，请联系您的系统管理员",
   "chart.choropleth": "彩色地图{地图}",

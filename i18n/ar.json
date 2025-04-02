@@ -1,7 +1,8 @@
 {
   "accessibility.disable": "الغاء دعم الاتحاة",
   "accessibility.enable": "تفعيل دعم الاتحاة",
-  "accessibility.support": "دعم الوصول",
+  "accessibility.support.disabled": {},
+  "accessibility.support.enabled": {},
   "ar": "العربية",
   "auth.required": "لم تتم مصادقتك ، أو انتهت مهلة المصادقة الخاصة بك. {br} انقر أدناه لتسجيل الدخول. {br} إذا فشلت ، فاتصل بمسؤول النظام لديك",
   "chart.choropleth": "خريطة اللون {map}",
