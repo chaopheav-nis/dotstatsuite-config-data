@@ -1,7 +1,8 @@
 {
   "accessibility.disable": "Désactiver le support d'accessibilité",
   "accessibility.enable": "Activer le support d'accessibilité",
-  "accessibility.support": "Prise en charge de l'accessibilité",
+  "accessibility.support.disabled": {},
+  "accessibility.support.enabled": {},
   "ar": "العربية",
   "auth.required": "Vous n'êtes pas authentifié, ou votre authentification a expiré.{br} Cliquez ci-dessous pour vous connecter.{br} Si cela échoue, contactez votre administrateur système",
   "chart.choropleth": "Carte en couleur {map}",

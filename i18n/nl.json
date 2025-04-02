@@ -1,7 +1,8 @@
 {
   "accessibility.disable": "Toegankelijkheidsondersteuning uitschakelen",
   "accessibility.enable": "Toegankelijkheidsondersteuning inschakelen",
-  "accessibility.support": "Toegankelijkheidsondersteuning",
+  "accessibility.support.disabled": {},
+  "accessibility.support.enabled": {},
   "ar": "العربية",
   "auth.required": "U bent niet geverifieerd of er is een time-out opgetreden voor uw verificatie.{br} Klik hieronder om in te loggen.{br} Als het niet lukt, neem dan contact op met uw systeembeheerder",
   "chart.choropleth": "Kleurenkaart {map}",

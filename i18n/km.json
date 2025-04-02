@@ -1,7 +1,8 @@
 {
   "accessibility.disable": "បិទការគាំទ្រលទ្ធភាពប្រើប្រាស់",
   "accessibility.enable": "បើកដំណើរការជំនួយភាពងាយស្រួល",
-  "accessibility.support": "ជំនួយភាពងាយស្រួល",
+  "accessibility.support.disabled": {},
+  "accessibility.support.enabled": {},
   "ar": "العربية",
   "auth.required": "អ្នក​មិន​ត្រូវ​បាន​ផ្ទៀងផ្ទាត់ ឬ​ការ​ផ្ទៀងផ្ទាត់​របស់​អ្នក​អស់​ពេល​ទេ។ {br} ចុចខាងក្រោមដើម្បីចូល។ {br} ប្រសិនបើវាបរាជ័យ សូមទាក់ទងអ្នកគ្រប់គ្រងប្រព័ន្ធរបស់អ្នក។",
   "chart.choropleth": "ផែនទីពណ៌ {map}",
