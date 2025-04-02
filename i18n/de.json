@@ -1,7 +1,8 @@
 {
   "accessibility.disable": "Unterstützung für Barrierefreiheit deaktivieren",
   "accessibility.enable": "Unterstützung für Barrierefreiheit aktivieren",
-  "accessibility.support": "Unterstützung für Barrierefreiheit",
+  "accessibility.support.disabled": {},
+  "accessibility.support.enabled": {},
   "ar": "العربية",
   "auth.required": "Sie sind nicht authentifiziert oder Ihre Authentifizierung ist abgelaufen.{br} Klicken Sie unten, um sich anzumelden.{br} Wenn dies fehlschlägt, wenden Sie sich an Ihren Systemadministrator",
   "chart.choropleth": "Farbkarte {map}",

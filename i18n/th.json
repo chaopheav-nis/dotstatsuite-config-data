@@ -1,7 +1,8 @@
 {
   "accessibility.disable": "ใช้งานปกติ",
   "accessibility.enable": "ใช้งานลดข้อจำกัด",
-  "accessibility.support": "รองรับการเข้าถึง",
+  "accessibility.support.disabled": {},
+  "accessibility.support.enabled": {},
   "ar": "العربية",
   "auth.required": "คุณไม่ได้รับการพิสูจน์ตัวตน หรือการตรวจสอบของคุณหมดเวลา{br} คลิกด้านล่างเพื่อเข้าสู่ระบบ{br} หากล้มเหลว โปรดติดต่อผู้ดูแลระบบของคุณ",
   "chart.choropleth": "แผนที่สี {map}",
