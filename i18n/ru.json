@@ -1,6 +1,7 @@
 {
   "accessibility.disable": "Отключить поддержку специальных возможностей",
   "accessibility.enable": "Включить поддержку специальных возможностей",
+  "accessibility.support": "Специальные возможности",
   "accessibility.support.disabled": {},
   "accessibility.support.enabled": {},
   "ar": "العربية",
