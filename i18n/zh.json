@@ -1,6 +1,7 @@
 {
   "accessibility.disable": "禁用辅助功能支持",
   "accessibility.enable": "启用辅助功能支持",
+  "accessibility.support": "辅助功能支持",
   "accessibility.support.disabled": {},
   "accessibility.support.enabled": {},
   "ar": "العربية",

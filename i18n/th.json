@@ -1,6 +1,7 @@
 {
   "accessibility.disable": "ใช้งานปกติ",
   "accessibility.enable": "ใช้งานลดข้อจำกัด",
+  "accessibility.support": "รองรับการเข้าถึง",
   "accessibility.support.disabled": {},
   "accessibility.support.enabled": {},
   "ar": "العربية",
