@@ -194,6 +194,7 @@
   "de.vis.all.data.points": "{obsCount} data points",
   "de.vis.data.points": "{obsCount} data points selected in this dataset with:",
   "de.vis.disabled.item.label": "No data with current filters for: ",
+  "de.vis.filter.title": "Refine the selection of {dimension}",
   "de.vis.map.loading": "loading the map…",
   "de.visualisation.data.larger.loading": "loading data…{br}exceptionally, this page may display a larger table and might become slow or unstable",
   "de.visualisation.data.loading": "loading data…",
