@@ -194,6 +194,7 @@
   "de.vis.all.data.points": "{obsCount} points de données",
   "de.vis.data.points": "{obsCount} points de données sélectionnés dans cet ensemble de données avec:",
   "de.vis.disabled.item.label": "Aucune donnée avec l'actuelle sélection pour : ",
+  "de.vis.filter.title": {},
   "de.vis.map.loading": "Carte en cours de chargement",
   "de.visualisation.data.larger.loading": "chargement des données en cours… {br}exceptionnellement, cette page peut afficher une table plus large et devenir lente ou instable",
   "de.visualisation.data.loading": "chargement des données en cours…",
