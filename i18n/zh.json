@@ -194,6 +194,7 @@
   "de.vis.all.data.points": "{obsCount} 数据点",
   "de.vis.data.points": "{obsCount} 在此数据集中选择的数据点：",
   "de.vis.disabled.item.label": "当前筛选条件没有数据： ",
+  "de.vis.filter.title": {},
   "de.vis.map.loading": "正在加载地图……",
   "de.visualisation.data.larger.loading": "正在加载数据……{br}例外情况是，此页面可能会显示较大的表格，并且可能会变得缓慢或不稳定",
   "de.visualisation.data.loading": "正在加载数据……",

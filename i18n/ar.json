@@ -194,6 +194,7 @@
   "de.vis.all.data.points": "{obsCount} نقاط البيانات",
   "de.vis.data.points": "{obsCount} نقطة بيانات مختارة في هذه المجموعة من البيانات مع:",
   "de.vis.disabled.item.label": "لا توجد بيانات مع عوامل التصفية الحالية لـ:",
+  "de.vis.filter.title": {},
   "de.vis.map.loading": "تحميل الخريطة",
   "de.visualisation.data.larger.loading": "تحميل البيانات ... {br} بشكل استثنائي ، قد تعرض هذه الصفحة جدولًا أكبر وقد تصبح بطيئة أو غير مستقرة",
   "de.visualisation.data.loading": "يجري تحميل البيانات…",

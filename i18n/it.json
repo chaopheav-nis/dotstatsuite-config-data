@@ -194,6 +194,7 @@
   "de.vis.all.data.points": "{obsCount} punti dati",
   "de.vis.data.points": "{obsCount} punti dati selezionati in questo dataset con:",
   "de.vis.disabled.item.label": "Nessun dato con filtri correnti per: ",
+  "de.vis.filter.title": {},
   "de.vis.map.loading": "Loading the Map",
   "de.visualisation.data.larger.loading": "Caricando i dati…{br}in via eccezionale, questa pagina potrebbe visualizzare una tabella più grande e potrebbe diventare lenta o instabile",
   "de.visualisation.data.loading": "Caricando i dati…",

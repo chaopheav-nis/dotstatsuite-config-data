@@ -194,6 +194,7 @@
   "de.vis.all.data.points": "{obsCount} datapunten",
   "de.vis.data.points": "{obsCount} datapunten geselecteerd in deze dataset met:",
   "de.vis.disabled.item.label": "Geen gegevens met huidige filters voor: ",
+  "de.vis.filter.title": {},
   "de.vis.map.loading": "Kaart aan het laden",
   "de.visualisation.data.larger.loading": "data wordt geladen…{br}uitzonderlijk kan deze pagina een grotere tabel weergeven en kan deze langzaam of onstabiel worden",
   "de.visualisation.data.loading": "data wordt geladen…",

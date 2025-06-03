@@ -194,6 +194,7 @@
   "de.vis.all.data.points": "{obsCount} точки данных",
   "de.vis.data.points": "{obsCount} Точки данных, выбранные в этом наборе данных:",
   "de.vis.disabled.item.label": "По текущим фильтрам отсутствуют данные для: ",
+  "de.vis.filter.title": {},
   "de.vis.map.loading": "загрузка карты...",
   "de.visualisation.data.larger.loading": "загрузка данных…{br}в качестве исключения на этой странице размер метки можно увеличить, но после этого страница может работать медленно или нестабильно",
   "de.visualisation.data.loading": "загрузка данных...",
