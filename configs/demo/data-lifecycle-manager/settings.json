@@ -103,5 +103,30 @@
       }
     }
   },
+  "resources": {
+    "helpLink": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-dlm/manage-data/external-resources",
+    "icons": [
+      {
+        "id": "pdf",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"
+      },
+      {
+        "id": "csv",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/18/Text-csv-text.svg"
+      },
+      {
+        "id": "excel",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"
+      },
+      {
+        "id": "words",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/39/Microsoft_Office_Word_%282013%E2%80%932019%29.svg"
+      },
+      {
+        "id": "zip",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f6/.zip_OneDrive_icon.svg"
+      }
+    ]
+  },
   "styles": "/assets/siscc/data-lifecycle-manager/styles/styles.css"
 }
