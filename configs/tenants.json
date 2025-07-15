@@ -102,7 +102,7 @@
         "type": "dlm",
         "label": "dlm",
         "oidc": {
-          "authority": "http://localhost:8080/auth/realms/demo",
+          "authority": "http://localhost:8080/realms/demo",
           "client_id": "stat-suite"
         },
         "spaces": [
@@ -136,7 +136,7 @@
         "type": "de",
         "label": "de",
         "oidc": {
-          "authority": "http://localhost:8080/auth/realms/demo",
+          "authority": "http://localhost:8080/realms/demo",
           "authority_aliases": [],
           "client_id": "stat-suite",
           "required": false
@@ -144,12 +144,12 @@
         "spaces": [
           "demo-design",
           "demo-release",
-		  "demo-hpr"
+		      "demo-hpr"
         ],
         "datasources": [
           "ds-demo-design",
           "ds-demo-release",
-		  "ds-demo-hpr"
+		      "ds-demo-hpr"
         ]
       }
     }
