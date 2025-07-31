@@ -144,12 +144,12 @@
         "spaces": [
           "demo-design",
           "demo-release",
-		  "demo-hpr"
+		      "demo-hpr"
         ],
         "datasources": [
           "ds-demo-design",
           "ds-demo-release",
-		  "ds-demo-hpr"
+		      "ds-demo-hpr"
         ]
       }
     }
