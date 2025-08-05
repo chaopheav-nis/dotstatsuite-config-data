@@ -242,6 +242,7 @@
   "metadata.collapse.all": "انهيار جميع",
   "metadata.download": "قم بتنزيل التحديد بتنسيق CSV",
   "metadata.download.csv.all": "معلومات مرجعية غير مفلترة في نص جدولي (CSV)",
+  "metadata.empty": {},
   "metadata.expand.all": "توسيع الكل",
   "metadata.information.title": "معلومة",
   "metadata.no.value": "[المعلومات غير متوفرة باللغة الحالية]",
