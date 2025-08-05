@@ -242,6 +242,7 @@
   "metadata.collapse.all": "Свернуть все",
   "metadata.download": "Загрузить выбранные данные в формате CSV",
   "metadata.download.csv.all": "Неотфильтрованная справочная информация в табличном тексте (CSV)",
+  "metadata.empty": {},
   "metadata.expand.all": "Развернуть все ",
   "metadata.information.title": "Информация",
   "metadata.no.value": "[Информация на выбранном языке недоступна]",

@@ -242,6 +242,7 @@
   "metadata.collapse.all": "ยุบทั้งหมด",
   "metadata.download": "ดาวน์โหลดการเลือกใน CSV",
   "metadata.download.csv.all": "ข้อมูลอ้างอิงที่ไม่ได้กรองในข้อความแบบตาราง (CSV)",
+  "metadata.empty": {},
   "metadata.expand.all": "ขยายทั้งหมด",
   "metadata.information.title": "ข้อมูล",
   "metadata.no.value": "[ไม่มีข้อมูลในภาษาปัจจุบัน]",

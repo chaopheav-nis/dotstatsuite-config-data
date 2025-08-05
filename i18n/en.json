@@ -242,6 +242,7 @@
   "metadata.collapse.all": "Collapse all",
   "metadata.download": "Download the selection in CSV",
   "metadata.download.csv.all": "Unfiltered reference information in tabular text (CSV)",
+  "metadata.empty": "There is currently no information available.",
   "metadata.expand.all": "Expand all",
   "metadata.information.title": "Information",
   "metadata.no.value": "[Information is not available in the current language]",
