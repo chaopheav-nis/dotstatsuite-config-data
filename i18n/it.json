@@ -242,7 +242,7 @@
   "metadata.collapse.all": "Comprimi tutto",
   "metadata.download": "Scarica la selezione in CSV",
   "metadata.download.csv.all": "Informazioni di riferimento non filtrate in testo tabellare (CSV)",
-  "metadata.empty": {},
+  "metadata.empty": "Al momento non sono disponibili informazioni.",
   "metadata.expand.all": "Espandi tutto",
   "metadata.information.title": "Informazione",
   "metadata.no.value": "[Le informazioni non sono disponibili nella lingua corrente]",
