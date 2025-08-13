@@ -242,7 +242,7 @@
   "metadata.collapse.all": "全部折叠",
   "metadata.download": "下载 CSV 格式的选择",
   "metadata.download.csv.all": "表格文本 (CSV) 中未过滤的参考信息",
-  "metadata.empty": {},
+  "metadata.empty": "目前尚无可用信息。",
   "metadata.expand.all": "全部展开",
   "metadata.information.title": "信息",
   "metadata.no.value": "[无法提供当前语言的信息]",
