@@ -530,6 +530,7 @@
   "logs.list.action": "សកម្មភាព",
   "logs.list.blank.no.log": "មិនមានកំណត់ហេតុសម្រាប់តម្រងបច្ចុប្បន្នទេ។",
   "logs.list.blank.no.space": "សូមជ្រើសរើសកន្លែងទំនេរយ៉ាងហោចណាស់មួយ។",
+  "logs.list.error.504": {},
   "logs.list.execution.end": "ការបញ្ចប់ការប្រតិបត្តិ",
   "logs.list.execution.outcome": "លទ្ធផលនៃការអនុវត្ត",
   "logs.list.execution.start": "ការចាប់ផ្តើមប្រតិបត្តិ",

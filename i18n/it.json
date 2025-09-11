@@ -530,6 +530,7 @@
   "logs.list.action": "Azione",
   "logs.list.blank.no.log": "Non ci sono registri disponibili per i filtri correnti.",
   "logs.list.blank.no.space": "Seleziona almeno uno spazio",
+  "logs.list.error.504": {},
   "logs.list.execution.end": "Fine dell'esecuzione",
   "logs.list.execution.outcome": "Risultato dell'esecuzione",
   "logs.list.execution.start": "Inizio esecuzione",

@@ -530,6 +530,7 @@
   "logs.list.action": "Acción",
   "logs.list.blank.no.log": "No hay logs disponibles para los filtros actuales.",
   "logs.list.blank.no.space": "Por favor seleccione al menos un espacio",
+  "logs.list.error.504": {},
   "logs.list.execution.end": "Fin de ejecución",
   "logs.list.execution.outcome": "Resultado de la ejecución",
   "logs.list.execution.start": "Inicio de ejecución",
