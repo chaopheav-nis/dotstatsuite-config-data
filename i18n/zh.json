@@ -517,6 +517,7 @@
   "logs.filters.execution.outcome.None": "无",
   "logs.filters.execution.outcome.Success": "成功",
   "logs.filters.execution.outcome.Warning": "警告",
+  "logs.filters.execution.outcome.multiStatus": {},
   "logs.filters.execution.outcome.title": "按成果筛选",
   "logs.filters.execution.status.Canceled": "已取消",
   "logs.filters.execution.status.Completed": "已完成",
