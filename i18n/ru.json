@@ -519,7 +519,7 @@
   "logs.filters.execution.outcome.None": "Нет",
   "logs.filters.execution.outcome.Success": "Успешно",
   "logs.filters.execution.outcome.Warning": "Предупреждение",
-  "logs.filters.execution.outcome.multiStatus": {},
+  "logs.filters.execution.outcome.multiStatus": "Мультистатус",
   "logs.filters.execution.outcome.title": "Фильтровать по результату",
   "logs.filters.execution.status.Canceled": "Отменено",
   "logs.filters.execution.status.Completed": "Завершено",

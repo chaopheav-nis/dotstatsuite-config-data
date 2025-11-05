@@ -519,7 +519,7 @@
   "logs.filters.execution.outcome.None": "لا أحد",
   "logs.filters.execution.outcome.Success": "النجاح",
   "logs.filters.execution.outcome.Warning": "تحذير",
-  "logs.filters.execution.outcome.multiStatus": {},
+  "logs.filters.execution.outcome.multiStatus": "متعدد الحالات",
   "logs.filters.execution.outcome.title": "تصفية حسب نتيجة التنفيذ",
   "logs.filters.execution.status.Canceled": "ألغيت",
   "logs.filters.execution.status.Completed": "مكتمل",

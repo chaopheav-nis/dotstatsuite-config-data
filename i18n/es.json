@@ -519,7 +519,7 @@
   "logs.filters.execution.outcome.None": "Ninguno",
   "logs.filters.execution.outcome.Success": "Éxito",
   "logs.filters.execution.outcome.Warning": "Advertencia",
-  "logs.filters.execution.outcome.multiStatus": {},
+  "logs.filters.execution.outcome.multiStatus": "Multiestado",
   "logs.filters.execution.outcome.title": "Filtrar por resultado de ejecución",
   "logs.filters.execution.status.Canceled": "Cancelado",
   "logs.filters.execution.status.Completed": "Terminado",

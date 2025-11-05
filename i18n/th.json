@@ -519,7 +519,7 @@
   "logs.filters.execution.outcome.None": "ไม่มี",
   "logs.filters.execution.outcome.Success": "ความสำเร็จ",
   "logs.filters.execution.outcome.Warning": "คำเตือน",
-  "logs.filters.execution.outcome.multiStatus": {},
+  "logs.filters.execution.outcome.multiStatus": "หลายสถานะ",
   "logs.filters.execution.outcome.title": "กรองตามผลการดำเนินการ",
   "logs.filters.execution.status.Canceled": "ยกเลิก",
   "logs.filters.execution.status.Completed": "สมบูรณ์",

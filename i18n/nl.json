@@ -519,7 +519,7 @@
   "logs.filters.execution.outcome.None": "Geen",
   "logs.filters.execution.outcome.Success": "Succes",
   "logs.filters.execution.outcome.Warning": "Waarschuwing",
-  "logs.filters.execution.outcome.multiStatus": {},
+  "logs.filters.execution.outcome.multiStatus": "MultiStatus",
   "logs.filters.execution.outcome.title": "Filteren op uitvoeringsresultaat",
   "logs.filters.execution.status.Canceled": "Geannuleerd",
   "logs.filters.execution.status.Completed": "Voltooid",

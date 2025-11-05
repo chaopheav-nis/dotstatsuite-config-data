@@ -519,7 +519,7 @@
   "logs.filters.execution.outcome.None": "គ្មាន",
   "logs.filters.execution.outcome.Success": "ជោគជ័យ",
   "logs.filters.execution.outcome.Warning": "ការព្រមាន",
-  "logs.filters.execution.outcome.multiStatus": {},
+  "logs.filters.execution.outcome.multiStatus": "ពហុស្ថានភាព",
   "logs.filters.execution.outcome.title": "ត្រងតាមលទ្ធផលប្រតិបត្តិ",
   "logs.filters.execution.status.Canceled": "បានលុបចោល",
   "logs.filters.execution.status.Completed": "បានបញ្ចប់",
