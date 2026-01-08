@@ -131,7 +131,7 @@
     "visFont": "'Segoe UI'",
     "palette": {
       "secondary": {"dark": "#ffffff"},
-      "tertiary": {"main": "#ff19ab"}
+      "tertiary": {"main": "#C5E0DC"}
     }
   },
   "mixins": {
@@ -164,7 +164,7 @@
   "styles": "/assets/siscc/data-explorer/styles/styles.css",
   "search": {
     "endpoint": "https://data.camstat-new.nis.gov.kh/search/api",
-    "homeFacetIds": ["Reference area", "Area","Topic","ប្រធានបទ"],
+    "homeFacetIds": ["Topic","Reference area", "Area","ប្រធានបទ"],
     "homeFacetLevel2Clickable": true,
     "homeFacetCentered": true,
     "expandedHomeFacets": ["Topic", "Thème","ប្រធានបទ"],

@@ -2,13 +2,14 @@ body {
   margin: 0;
 }
 
-#id_home_page {
+/* _home_page {
   background-image: url(/assets/siscc/data-explorer/images/cambodia_background.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
+*/
 .jss10{
   vertical-align: middle;
 }
