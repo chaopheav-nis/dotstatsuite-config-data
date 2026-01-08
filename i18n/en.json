@@ -80,7 +80,7 @@
   "de.filters.search.help": "Filters marked with {icon} are, when available, always listed first.",
   "de.footer.author": ".Stat Suite",
   "de.footer.description": "{icon} Powered by the {link}",
-  "de.footer.disclaimer": "The application source code is open-source, protected by copyright and provided without warranty.{br}For details see the licence declaration.",
+  "de.footer.disclaimer": " ",
   "de.header.message": {},
   "de.last.updated": "Last updated",
   "de.mail.adress.mail": "Email address",

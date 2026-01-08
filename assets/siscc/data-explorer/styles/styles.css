@@ -1,3 +1,20 @@
 body {
   margin: 0;
 }
+
+#id_home_page {
+  background-image: url(/assets/siscc/data-explorer/images/cambodia_background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.jss10{
+  vertical-align: middle;
+}
+
+#id_appbar > header.MuiAppBar-colorPrimary {
+    color: #fff;
+    background-color: #0549ab;
+}
+

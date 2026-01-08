@@ -4,28 +4,14 @@
     "label": "demo",
     "default": true,
     "spaces": {
-      "demo-hpr": {
-        "label": "demo-hpr",
-        "hasRangeHeader": true,
-        "supportsReferencePartial": true,
-        "supportsPostLongRequests": true,
-        "hasLastNObservations": false,
-        "url": "http://localhost:82/rest",
-        "urlv3": "http://localhost:82/rest/v2",
-        "headers": {
-          "data": {
-            "json": "application/vnd.sdmx.data+json;version=2.0"
-          }
-        }
-      },
       "demo-release": {
         "label": "demo-release",
         "hasRangeHeader": true,
         "supportsReferencePartial": true,
         "supportsPostLongRequests": true,
         "hasLastNObservations": false,
-        "url": "http://localhost:81/rest",
-        "urlv3": "http://localhost:81/rest/v2",
+        "url": "https://api.camstat-new.nis.gov.kh/rest",
+        "urlv3": "https://api.camstat-new.nis.gov.kh/rest/v2",
         "headers": {
           "data": {
             "json": "application/vnd.sdmx.data+json;version=2.0"
@@ -38,8 +24,8 @@
         "supportsReferencePartial": true,
         "supportsPostLongRequests": true,
         "hasLastNObservations": true,
-        "url": "http://localhost:80/rest",
-        "urlv3": "http://localhost:80/rest/v2",
+        "url": "https://api-design.camstat-new.nis.gov.kh/rest",
+        "urlv3": "https://api-design.camstat-new.nis.gov.kh/rest/v2",
         "headers": {
           "data": {
             "json": "application/vnd.sdmx.data+json;version=2.0"
@@ -48,51 +34,14 @@
       }
     },
     "datasources": {
-      "ds-demo-hpr": {
-        "dataSpaceId": "demo-hpr",
-        "indexed": true,
-        "dataqueries": [
-          {
-            "version": "1.0",
-            "categorySchemeId": "TOPICS",
-            "agencyId": "CH1"
-          },
-          {
-            "version": "1.0",
-            "categorySchemeId": "OECDCS1",
-            "agencyId": "OECD"
-          }
-        ]
-      },
       "ds-demo-release": {
         "dataSpaceId": "demo-release",
         "indexed": true,
         "dataqueries": [
           {
             "version": "1.0",
-            "categorySchemeId": "TOPICS",
-            "agencyId": "CH1"
-          },
-          {
-            "version": "1.0",
-            "categorySchemeId": "OECDCS1",
-            "agencyId": "OECD"
-          }
-        ]
-      },
-      "ds-demo-design": {
-        "dataSpaceId": "demo-design",
-        "indexed": true,
-        "dataqueries": [
-          {
-            "version": "1.0",
-            "categorySchemeId": "TOPICS",
-            "agencyId": "CH1"
-          },
-          {
-            "version": "1.0",
-            "categorySchemeId": "OECDCS1",
-            "agencyId": "OECD"
+            "categorySchemeId": "CAM_CAT",
+            "agencyId": "KH_NIS"
           }
         ]
       }
@@ -102,33 +51,26 @@
         "type": "dlm",
         "label": "dlm",
         "oidc": {
-          "authority": "http://localhost:8080/realms/demo",
+          "authority": "https://auth.camstat-new.nis.gov.kh/realms/demo",
           "client_id": "stat-suite"
         },
+	"authzServerUrl": "https://authorization.camstat-new.nis.gov.kh/1.1",
         "spaces": [
-          {
-            "id": "demo-hpr",
-            "color": "white",
-            "backgroundColor": "#468F0A",
-            "label": "demo-hpr",
-            "transferUrl": "http://localhost:93/2",
-            "dataExplorerUrl": "http://localhost:7001"
-          },
           {
             "id": "demo-release",
             "color": "white",
             "backgroundColor": "#606A80",
             "label": "demo-release",
-            "transferUrl": "http://localhost:93/2",
-            "dataExplorerUrl": "http://localhost:7001"
+            "transferUrl": "https://data.camstat-new.nis.gov.kh/transfer/2",
+            "dataExplorerUrl": "https://data.camstat-new.nis.gov.kh"
           },
           {
             "id": "demo-design",
             "color": "white",
             "backgroundColor": "#735667",
             "label": "demo-design",
-            "transferUrl": "http://localhost:93/2",
-            "dataExplorerUrl": "http://localhost:7001"
+            "transferUrl": "https://data.camstat-new.nis.gov.kh/transfer/2",
+            "dataExplorerUrl": "https://data.camstat-new.nis.gov.kh"
           }
         ]
       },
@@ -136,7 +78,7 @@
         "type": "de",
         "label": "de",
         "oidc": {
-          "authority": "http://localhost:8080/realms/demo",
+          "authority": "https://auth.camstat-new.nis.gov.kh/realms/demo",
           "authority_aliases": [],
           "client_id": "stat-suite",
           "required": false,
@@ -144,13 +86,11 @@
         },
         "spaces": [
           "demo-design",
-          "demo-release",
-		      "demo-hpr"
+          "demo-release"
         ],
         "datasources": [
           "ds-demo-design",
-          "ds-demo-release",
-		      "ds-demo-hpr"
+          "ds-demo-release"
         ]
       }
     }
